@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+    <RootNamespace>Task_Home_2___Введите_три_числа_и_выведите_их_произведение_и_сумму</RootNamespace>
+  </PropertyGroup>
+
+</Project>
