@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 14 - Сокращё�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task Home 4 - Проверка числа на чётность", "Task Home 4 - Проверка числа на чётность\Task Home 4 - Проверка числа на чётность.csproj", "{9124A33F-1F0D-4788-8CD8-156AE083D304}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 15 - Условный оператор множественного выбора switch", "Lesson 15 - Условный оператор множественного выбора switch\Lesson 15 - Условный оператор множественного выбора switch.csproj", "{ACE8ABDC-0D05-4963-AFD8-CFF298A85A9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task Home 5 - Калькулятор Switch и на If Else", "Task Home 5 - Калькулятор Switch и на If Else\Task Home 5 - Калькулятор Switch и на If Else.csproj", "{C9595BDE-8D44-4EF8-8451-EBEEEE2E31D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +127,14 @@ Global
 		{9124A33F-1F0D-4788-8CD8-156AE083D304}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9124A33F-1F0D-4788-8CD8-156AE083D304}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9124A33F-1F0D-4788-8CD8-156AE083D304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACE8ABDC-0D05-4963-AFD8-CFF298A85A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE8ABDC-0D05-4963-AFD8-CFF298A85A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE8ABDC-0D05-4963-AFD8-CFF298A85A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE8ABDC-0D05-4963-AFD8-CFF298A85A9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9595BDE-8D44-4EF8-8451-EBEEEE2E31D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9595BDE-8D44-4EF8-8451-EBEEEE2E31D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9595BDE-8D44-4EF8-8451-EBEEEE2E31D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9595BDE-8D44-4EF8-8451-EBEEEE2E31D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
