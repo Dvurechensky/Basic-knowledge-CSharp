@@ -20,7 +20,7 @@ namespace Lesson_8___Арифметические_операции_с_числа
     {
         static void Main(string[] args)
         {
-            int result, a = 2, b = 5;
+            int result, a = 5, b = 2;
 
             result = a + b;
             result = a - b;
