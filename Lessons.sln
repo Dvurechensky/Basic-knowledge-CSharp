@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31624.102
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1738
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 2 - Типы Данных", "Lesson 2 - Типы Данных\Lesson 2 Типы Данных\Lesson 2 - Типы Данных.csproj", "{DEBC4CED-8964-455A-8DEB-6FEADAF2851F}"
 EndProject
@@ -37,13 +37,21 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 12 - Операто�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 13 - Конструкция if else", "Lesson 13 - Конструкция if else\Lesson 13 - Конструкция if else.csproj", "{AB913711-B99C-4D68-B9EF-6D66C437F97A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 14 - Сокращённые логические операции. Логические операторы", "Lesson 14 - Сокращённые логические операции. Логические операторы.\Lesson 14 - Сокращённые логические операции. Логические операторы.csproj", "{668DAC0A-01C5-4DD0-ACF3-0D4E9485F449}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 14 - Сокращённые логические операции. Логические операторы", "Lesson 14 - Сокращённые логические операции. Логические операторы\Lesson 14 - Сокращённые логические операции. Логические операторы.csproj", "{668DAC0A-01C5-4DD0-ACF3-0D4E9485F449}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task Home 4 - Проверка числа на чётность", "Task Home 4 - Проверка числа на чётность\Task Home 4 - Проверка числа на чётность.csproj", "{9124A33F-1F0D-4788-8CD8-156AE083D304}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 15 - Условный оператор множественного выбора switch", "Lesson 15 - Условный оператор множественного выбора switch\Lesson 15 - Условный оператор множественного выбора switch.csproj", "{ACE8ABDC-0D05-4963-AFD8-CFF298A85A9C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task Home 5 - Калькулятор Switch и на If Else", "Task Home 5 - Калькулятор Switch и на If Else\Task Home 5 - Калькулятор Switch и на If Else.csproj", "{C9595BDE-8D44-4EF8-8451-EBEEEE2E31D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 18 - Цикл for", "Lesson 18 - Цикл for\Lesson 18 - Цикл for.csproj", "{608C0926-91C6-4B0C-B6BF-4AE25688AB70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 19 - Цикл for в обратном порядке", "Lesson 19 - Цикл for в обратном порядке\Lesson 19 - Цикл for в обратном порядке.csproj", "{EE26A5F9-9C69-470B-94C4-7F7DE42215B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 20 - Ключевое слово break (оператор)", "Lesson 20 - Ключевое слово break (оператор)\Lesson 20 - Ключевое слово break (оператор).csproj", "{E962F366-B388-4EE4-B276-000F1B4B8052}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 21 - Ключевое слово continue", "Lesson 21 - Ключевое слово continue\Lesson 21 - Ключевое слово continue.csproj", "{C8EB51D4-B80E-4227-9DC6-6E6D088F24BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +143,22 @@ Global
 		{C9595BDE-8D44-4EF8-8451-EBEEEE2E31D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9595BDE-8D44-4EF8-8451-EBEEEE2E31D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9595BDE-8D44-4EF8-8451-EBEEEE2E31D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{608C0926-91C6-4B0C-B6BF-4AE25688AB70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{608C0926-91C6-4B0C-B6BF-4AE25688AB70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{608C0926-91C6-4B0C-B6BF-4AE25688AB70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{608C0926-91C6-4B0C-B6BF-4AE25688AB70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE26A5F9-9C69-470B-94C4-7F7DE42215B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE26A5F9-9C69-470B-94C4-7F7DE42215B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE26A5F9-9C69-470B-94C4-7F7DE42215B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE26A5F9-9C69-470B-94C4-7F7DE42215B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E962F366-B388-4EE4-B276-000F1B4B8052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E962F366-B388-4EE4-B276-000F1B4B8052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E962F366-B388-4EE4-B276-000F1B4B8052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E962F366-B388-4EE4-B276-000F1B4B8052}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8EB51D4-B80E-4227-9DC6-6E6D088F24BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8EB51D4-B80E-4227-9DC6-6E6D088F24BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8EB51D4-B80E-4227-9DC6-6E6D088F24BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8EB51D4-B80E-4227-9DC6-6E6D088F24BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
