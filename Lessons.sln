@@ -53,7 +53,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 20 - Ключево�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 21 - Ключевое слово continue", "Lesson 21 - Ключевое слово continue\Lesson 21 - Ключевое слово continue.csproj", "{C8EB51D4-B80E-4227-9DC6-6E6D088F24BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 22 - Вложенные циклы. Как работают", "Lesson 22 - Вложенные циклы. Как работают.\Lesson 22 - Вложенные циклы. Как работают.csproj", "{542E79A5-E2AE-4446-AFF6-17D55EDA286D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 22 - Вложенные циклы. Как работают", "Lesson 22 - Вложенные циклы. Как работают\Lesson 22 - Вложенные циклы. Как работают.csproj", "{542E79A5-E2AE-4446-AFF6-17D55EDA286D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task Home 6 - Как нарисовать треугольник в консоли", "Task Home 6 - Как нарисовать треугольник в консоли\Task Home 6 - Как нарисовать треугольник в консоли.csproj", "{4FFDDB39-D141-4EEA-ACC3-767C5BE4D955}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +167,10 @@ Global
 		{542E79A5-E2AE-4446-AFF6-17D55EDA286D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{542E79A5-E2AE-4446-AFF6-17D55EDA286D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{542E79A5-E2AE-4446-AFF6-17D55EDA286D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FFDDB39-D141-4EEA-ACC3-767C5BE4D955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FFDDB39-D141-4EEA-ACC3-767C5BE4D955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FFDDB39-D141-4EEA-ACC3-767C5BE4D955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FFDDB39-D141-4EEA-ACC3-767C5BE4D955}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -84,9 +84,9 @@ namespace Lesson_22___Вложенные_циклы.Как_работают
              * HomeWork
              */
 
-            for (int r = 0; r <= 10; r++)
+            for (int r = 0; r < 10; r++)
             {
-                for (int rr = 0; rr < r; rr++)
+                for (int rr = 0; rr <= r; rr++)
                 {
                     Console.Write("#");
                 }
@@ -111,14 +111,14 @@ namespace Lesson_22___Вложенные_циклы.Как_работают
             Console.WriteLine();
             Console.WriteLine();
 
-            for (int r = 10; r >= 0; r--)
+            for (int r = 10; r > 0; r--)
             {
-                for (int rr = 0; rr < r; rr++)
+                for (int rr = 1; rr < r; rr++)
                 {
                     Console.Write(" ");
                 }
 
-                for (int rrr = 0; rrr < 10 - r; rrr++)
+                for (int rrr = 0; rrr < 11 - r; rrr++)
                 {
                     Console.Write("#");
                 }
