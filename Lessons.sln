@@ -57,6 +57,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 22 - Вложенн�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task Home 6 - Как нарисовать треугольник в консоли", "Task Home 6 - Как нарисовать треугольник в консоли\Task Home 6 - Как нарисовать треугольник в консоли.csproj", "{4FFDDB39-D141-4EEA-ACC3-767C5BE4D955}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 23 - Тернарный оператор. Что это. Пример", "Lesson 23 - Тернарный оператор. Что это. Пример.\Lesson 23 - Тернарный оператор. Что это. Пример.csproj", "{C3596099-8F86-47F2-BA83-EA56E3BC76D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +173,10 @@ Global
 		{4FFDDB39-D141-4EEA-ACC3-767C5BE4D955}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FFDDB39-D141-4EEA-ACC3-767C5BE4D955}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FFDDB39-D141-4EEA-ACC3-767C5BE4D955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3596099-8F86-47F2-BA83-EA56E3BC76D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3596099-8F86-47F2-BA83-EA56E3BC76D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3596099-8F86-47F2-BA83-EA56E3BC76D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3596099-8F86-47F2-BA83-EA56E3BC76D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
