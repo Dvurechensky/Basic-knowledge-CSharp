@@ -59,11 +59,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task Home 6 - Как нар
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 23 - Тернарный оператор. Что это. Пример", "Lesson 23 - Тернарный оператор. Что это. Пример\Lesson 23 - Тернарный оператор. Что это. Пример.csproj", "{C3596099-8F86-47F2-BA83-EA56E3BC76D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 24 - Что такое массивы. Одномерный массив. Примеры", "Lesson 24 - Что такое массивы. Одномерный массив. Примеры.\Lesson 24 - Что такое массивы. Одномерный массив. Примеры.csproj", "{46607273-7BE4-41A6-90E5-ACFC1479A9AC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 24 - Что такое массивы. Одномерный массив. Примеры", "Lesson 24 - Что такое массивы. Одномерный массив. Примеры\Lesson 24 - Что такое массивы. Одномерный массив. Примеры.csproj", "{46607273-7BE4-41A6-90E5-ACFC1479A9AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 25 - Инициализация массива. Способы", "Lesson 25 - Инициализация массива. Способы.\Lesson 25 - Инициализация массива. Способы.csproj", "{F1F3121A-C3D9-46DB-A69E-CF810CD8A362}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 25 - Инициализация массива. Способы", "Lesson 25 - Инициализация массива. Способы\Lesson 25 - Инициализация массива. Способы.csproj", "{F1F3121A-C3D9-46DB-A69E-CF810CD8A362}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 26 - Вывод массива. Перебор массива. Массивы и циклы", "Lesson 26 - Вывод массива. Перебор массива. Массивы и циклы.\Lesson 26 - Вывод массива. Перебор массива. Массивы и циклы.csproj", "{C0D360CD-3C06-45CC-A0B0-4A5AC0783320}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 26 - Вывод массива. Перебор массива. Массивы и циклы", "Lesson 26 - Вывод массива. Перебор массива. Массивы и циклы\Lesson 26 - Вывод массива. Перебор массива. Массивы и циклы.csproj", "{C0D360CD-3C06-45CC-A0B0-4A5AC0783320}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 27 - Как работать с массивами на самом деле", "Lesson 27 - Как работать с массивами на самом деле.\Lesson 27 - Как работать с массивами на самом деле.csproj", "{027E7BEF-CE49-4672-93CD-9F3F4471B92A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,6 +197,10 @@ Global
 		{C0D360CD-3C06-45CC-A0B0-4A5AC0783320}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0D360CD-3C06-45CC-A0B0-4A5AC0783320}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0D360CD-3C06-45CC-A0B0-4A5AC0783320}.Release|Any CPU.Build.0 = Release|Any CPU
+		{027E7BEF-CE49-4672-93CD-9F3F4471B92A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{027E7BEF-CE49-4672-93CD-9F3F4471B92A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{027E7BEF-CE49-4672-93CD-9F3F4471B92A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{027E7BEF-CE49-4672-93CD-9F3F4471B92A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
