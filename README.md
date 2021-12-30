@@ -3,3 +3,4 @@
 
 Software:
 Visual Studio 2017 Professional Edition
+.NET Core 3.1 SDK (v3.1.416)
