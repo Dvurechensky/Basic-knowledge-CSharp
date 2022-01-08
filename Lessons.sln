@@ -67,6 +67,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 26 - Вывод ма
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 27 - Как работать с массивами на самом деле", "Lesson 27 - Как работать с массивами на самом деле\Lesson 27 - Как работать с массивами на самом деле.csproj", "{027E7BEF-CE49-4672-93CD-9F3F4471B92A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 29 - Многомерные массивы. Двумерный прямоугольный массив", "Lesson 29 - Многомерные массивы. Двумерный прямоугольный массив.\Lesson 29 - Многомерные массивы. Двумерный прямоугольный массив.csproj", "{E85F79E9-98D3-4451-9CF9-163631DBB6AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 30 - Двумерный массив. Объявление. Инициализация. Индексы", "Lesson 30 - Двумерный массив. Объявление. Инициализация. Индексы.\Lesson 30 - Двумерный массив. Объявление. Инициализация. Индексы.csproj", "{31F0D7A5-6BDF-49BD-B2A7-3BB7879213BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +205,14 @@ Global
 		{027E7BEF-CE49-4672-93CD-9F3F4471B92A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{027E7BEF-CE49-4672-93CD-9F3F4471B92A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{027E7BEF-CE49-4672-93CD-9F3F4471B92A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E85F79E9-98D3-4451-9CF9-163631DBB6AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E85F79E9-98D3-4451-9CF9-163631DBB6AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E85F79E9-98D3-4451-9CF9-163631DBB6AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E85F79E9-98D3-4451-9CF9-163631DBB6AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31F0D7A5-6BDF-49BD-B2A7-3BB7879213BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31F0D7A5-6BDF-49BD-B2A7-3BB7879213BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31F0D7A5-6BDF-49BD-B2A7-3BB7879213BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31F0D7A5-6BDF-49BD-B2A7-3BB7879213BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
