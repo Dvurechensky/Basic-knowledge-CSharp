@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{668DAC0A-01C5-4DD0-ACF3-0D4E9485F449}</ProjectGuid>
+    <ProjectGuid>{EE26A5F9-9C69-470B-94C4-7F7DE42215B1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Lesson_14___Сокращённые_логические_операции.Логические_операторы</RootNamespace>
-    <AssemblyName>Lesson_14___Сокращённые_логические_операции.Логические_операторы</AssemblyName>
+    <RootNamespace>Lesson_19___Цикл_for_в_обратном_порядке</RootNamespace>
+    <AssemblyName>Lesson 19 - Цикл for в обратном порядке</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

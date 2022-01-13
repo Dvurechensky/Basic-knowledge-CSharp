@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{668DAC0A-01C5-4DD0-ACF3-0D4E9485F449}</ProjectGuid>
+    <ProjectGuid>{46607273-7BE4-41A6-90E5-ACFC1479A9AC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Lesson_14___Сокращённые_логические_операции.Логические_операторы</RootNamespace>
-    <AssemblyName>Lesson_14___Сокращённые_логические_операции.Логические_операторы</AssemblyName>
+    <RootNamespace>Lesson_24___Что_такое_массивы.Одномерный_массив.Примеры</RootNamespace>
+    <AssemblyName>Lesson_24___Что_такое_массивы.Одномерный_массив.Примеры</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -22,7 +22,6 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <UseVSHostingProcess>true</UseVSHostingProcess>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>

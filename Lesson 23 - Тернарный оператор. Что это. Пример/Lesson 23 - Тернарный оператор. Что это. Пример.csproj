@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{668DAC0A-01C5-4DD0-ACF3-0D4E9485F449}</ProjectGuid>
+    <ProjectGuid>{C3596099-8F86-47F2-BA83-EA56E3BC76D0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Lesson_14___Сокращённые_логические_операции.Логические_операторы</RootNamespace>
-    <AssemblyName>Lesson_14___Сокращённые_логические_операции.Логические_операторы</AssemblyName>
+    <RootNamespace>Lesson_23___Тернарный_оператор.Что_это.Пример</RootNamespace>
+    <AssemblyName>Lesson_23___Тернарный_оператор.Что_это.Пример</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -22,7 +22,6 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <UseVSHostingProcess>true</UseVSHostingProcess>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>

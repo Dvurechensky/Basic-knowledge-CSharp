@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{668DAC0A-01C5-4DD0-ACF3-0D4E9485F449}</ProjectGuid>
+    <ProjectGuid>{542E79A5-E2AE-4446-AFF6-17D55EDA286D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Lesson_14___Сокращённые_логические_операции.Логические_операторы</RootNamespace>
-    <AssemblyName>Lesson_14___Сокращённые_логические_операции.Логические_операторы</AssemblyName>
+    <RootNamespace>Lesson_22___Вложенные_циклы.Как_работают</RootNamespace>
+    <AssemblyName>Lesson_22___Вложенные_циклы.Как_работают</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -44,6 +44,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Game.cs" />
+    <Compile Include="GameInfo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

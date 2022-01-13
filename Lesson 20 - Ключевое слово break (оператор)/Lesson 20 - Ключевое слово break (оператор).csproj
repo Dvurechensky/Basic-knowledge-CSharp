@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{668DAC0A-01C5-4DD0-ACF3-0D4E9485F449}</ProjectGuid>
+    <ProjectGuid>{E962F366-B388-4EE4-B276-000F1B4B8052}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Lesson_14___Сокращённые_логические_операции.Логические_операторы</RootNamespace>
-    <AssemblyName>Lesson_14___Сокращённые_логические_операции.Логические_операторы</AssemblyName>
+    <RootNamespace>Lesson_20___Ключевое_слово_break__оператор_</RootNamespace>
+    <AssemblyName>Lesson 20 - Ключевое слово break %28оператор%29</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
