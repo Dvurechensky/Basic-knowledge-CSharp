@@ -67,9 +67,31 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 26 - Вывод ма
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 27 - Как работать с массивами на самом деле", "Lesson 27 - Как работать с массивами на самом деле\Lesson 27 - Как работать с массивами на самом деле.csproj", "{027E7BEF-CE49-4672-93CD-9F3F4471B92A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 29 - Многомерные массивы. Двумерный прямоугольный массив", "Lesson 29 - Многомерные массивы. Двумерный прямоугольный массив.\Lesson 29 - Многомерные массивы. Двумерный прямоугольный массив.csproj", "{E85F79E9-98D3-4451-9CF9-163631DBB6AF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 29 - Многомерные массивы. Двумерный прямоугольный массив", "Lesson 29 - Многомерные массивы. Двумерный прямоугольный массив\Lesson 29 - Многомерные массивы. Двумерный прямоугольный массив.csproj", "{E85F79E9-98D3-4451-9CF9-163631DBB6AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 30 - Двумерный массив. Объявление. Инициализация. Индексы", "Lesson 30 - Двумерный массив. Объявление. Инициализация. Индексы.\Lesson 30 - Двумерный массив. Объявление. Инициализация. Индексы.csproj", "{31F0D7A5-6BDF-49BD-B2A7-3BB7879213BB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 30 - Двумерный массив. Объявление. Инициализация. Индексы", "Lesson 30 - Двумерный массив. Объявление. Инициализация. Индексы\Lesson 30 - Двумерный массив. Объявление. Инициализация. Индексы.csproj", "{31F0D7A5-6BDF-49BD-B2A7-3BB7879213BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 31 - Вывод двумерного массива", "Lesson 31 - Вывод двумерного массива\Lesson 31 - Вывод двумерного массива.csproj", "{8A4C8531-FC1F-4BE9-9625-B359984F0CEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 32 - Заполнение двумерного масива, случайными числами", "Lesson 32 - Заполнение двумерного масива, случайными числами\Lesson 32 - Заполнение двумерного масива, случайными числами.csproj", "{78D5B5FF-0681-49E1-9752-B4AB395A47AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 33 - Ступенчатые (зубчатые) массивы", "Lesson 33 - Ступенчатые (зубчатые) массивы\Lesson 33 - Ступенчатые (зубчатые) массивы.csproj", "{9AA9A703-8243-4EAE-B022-EE2FF4027A85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 34 - Трехмерные массивы, многомерные массивы любой мерности", "Lesson 34 - Трехмерные массивы, многомерные массивы любой мерности\Lesson 34 - Трехмерные массивы, многомерные массивы любой мерности.csproj", "{AA3C2474-5FFC-45B8-8C23-CCE0E2DBD851}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 35 - Функции и методы, что это, примеры", "Lesson 35 - Функции и методы, что это, примеры\Lesson 35 - Функции и методы, что это, примеры.csproj", "{D456B58D-3801-4B76-BE69-82A4FDB5A993}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 36  - Перегрузка методов", "Lesson 36  - Перегрузка методов\Lesson 36  - Перегрузка методов.csproj", "{F34542A8-0AAA-46C7-98DE-0DF72E9A7E2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 37  - Область видимости, контекст переменной, конфликт областей", "Lesson 37  - Область видимости, контекст переменной, конфликт областей\Lesson 37  - Область видимости, контекст переменной, конфликт областей.csproj", "{149CE343-79C3-4AE2-B61E-51845872C151}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 38  - Ссылочные и значимые типы, стек и куча", "Lesson 38  - Ссылочные и значимые типы, стек и куча\Lesson 38  - Ссылочные и значимые типы, стек и куча.csproj", "{AA330FB4-E2E1-4570-9ECD-65F8100E90D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 39 - Что такое NULL", "Lesson 39 - Что такое NULL\Lesson 39 - Что такое NULL.csproj", "{5BE6607E-0B8C-441E-B80E-14236D377D08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 40 - Оператор объекдинения с  NULL", "Lesson 40 - Оператор объекдинения с  NULL\Lesson 40 - Оператор объекдинения с  NULL.csproj", "{D4526E9D-E808-4922-8841-96A03BB14650}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 40_wf - Оператор объекдинения с  NULL", "Lesson 40_wf - Оператор объекдинения с  NULL\Lesson 40_wf - Оператор объекдинения с  NULL.csproj", "{E936CD37-FC1B-4D05-8BE7-B3F29EC393B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -213,6 +235,50 @@ Global
 		{31F0D7A5-6BDF-49BD-B2A7-3BB7879213BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31F0D7A5-6BDF-49BD-B2A7-3BB7879213BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31F0D7A5-6BDF-49BD-B2A7-3BB7879213BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A4C8531-FC1F-4BE9-9625-B359984F0CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A4C8531-FC1F-4BE9-9625-B359984F0CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A4C8531-FC1F-4BE9-9625-B359984F0CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A4C8531-FC1F-4BE9-9625-B359984F0CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78D5B5FF-0681-49E1-9752-B4AB395A47AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78D5B5FF-0681-49E1-9752-B4AB395A47AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78D5B5FF-0681-49E1-9752-B4AB395A47AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78D5B5FF-0681-49E1-9752-B4AB395A47AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AA9A703-8243-4EAE-B022-EE2FF4027A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA9A703-8243-4EAE-B022-EE2FF4027A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA9A703-8243-4EAE-B022-EE2FF4027A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA9A703-8243-4EAE-B022-EE2FF4027A85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA3C2474-5FFC-45B8-8C23-CCE0E2DBD851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA3C2474-5FFC-45B8-8C23-CCE0E2DBD851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA3C2474-5FFC-45B8-8C23-CCE0E2DBD851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA3C2474-5FFC-45B8-8C23-CCE0E2DBD851}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D456B58D-3801-4B76-BE69-82A4FDB5A993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D456B58D-3801-4B76-BE69-82A4FDB5A993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D456B58D-3801-4B76-BE69-82A4FDB5A993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D456B58D-3801-4B76-BE69-82A4FDB5A993}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F34542A8-0AAA-46C7-98DE-0DF72E9A7E2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F34542A8-0AAA-46C7-98DE-0DF72E9A7E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F34542A8-0AAA-46C7-98DE-0DF72E9A7E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F34542A8-0AAA-46C7-98DE-0DF72E9A7E2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{149CE343-79C3-4AE2-B61E-51845872C151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{149CE343-79C3-4AE2-B61E-51845872C151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{149CE343-79C3-4AE2-B61E-51845872C151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{149CE343-79C3-4AE2-B61E-51845872C151}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA330FB4-E2E1-4570-9ECD-65F8100E90D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA330FB4-E2E1-4570-9ECD-65F8100E90D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA330FB4-E2E1-4570-9ECD-65F8100E90D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA330FB4-E2E1-4570-9ECD-65F8100E90D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BE6607E-0B8C-441E-B80E-14236D377D08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BE6607E-0B8C-441E-B80E-14236D377D08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BE6607E-0B8C-441E-B80E-14236D377D08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BE6607E-0B8C-441E-B80E-14236D377D08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4526E9D-E808-4922-8841-96A03BB14650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4526E9D-E808-4922-8841-96A03BB14650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4526E9D-E808-4922-8841-96A03BB14650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4526E9D-E808-4922-8841-96A03BB14650}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E936CD37-FC1B-4D05-8BE7-B3F29EC393B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E936CD37-FC1B-4D05-8BE7-B3F29EC393B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E936CD37-FC1B-4D05-8BE7-B3F29EC393B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E936CD37-FC1B-4D05-8BE7-B3F29EC393B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
