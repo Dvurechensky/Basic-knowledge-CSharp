@@ -18,7 +18,8 @@ namespace Lesson_42___Оператор_условного_NULL
         static void Main(string[] args)
         {
             int[] myArray = GetArray();
-
+            // ?. - проверяет равна ли сумма null или не равна 
+            // ?? - оператор объединения с null  
             Console.WriteLine(myArray?.Sum() ?? -1);
         }
     }

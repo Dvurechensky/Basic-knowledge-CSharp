@@ -24,7 +24,8 @@ namespace Lesson_40_wf___Оператор_объекдинения_с__NULL
             {
                 new Person() {FirstName = "1", MiddleName = "2", SecondName = "3"},
                 new Person() {FirstName = "11", MiddleName = "22", SecondName = "33"},
-                new Person() {FirstName = "111", MiddleName = "222"}
+                new Person() {FirstName = "111", MiddleName = "222"},
+                new Person() {FirstName = "unknown", Contacts = new Contacts() { PhoneNumber = "1234"} }
             };
         }
 
@@ -35,7 +36,7 @@ namespace Lesson_40_wf___Оператор_объекдинения_с__NULL
 
             foreach(var person in persons)
             {
-                listBox1.Items.Add(person.GetFullName());
+                listBox1.Items.Add($"{person.GetFullName()} | {person.GetPhoneNumber()}");
             }
         }
     }
