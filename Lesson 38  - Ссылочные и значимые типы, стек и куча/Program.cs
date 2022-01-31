@@ -37,7 +37,7 @@ namespace Lesson_38____Ссылочные_и_значимые_типы__стек
             //Heap
             Random rnd = new Random();
 
-            //Heap gg(data) - реальные данные теущего массива Stack gg(ref) - сыылка
+            //Heap gg(data) - реальные данные теущего массива Stack gg(ref) - ссылка
             Array array;
             int[] gg;
 
