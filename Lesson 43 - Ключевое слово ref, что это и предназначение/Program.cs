@@ -36,7 +36,19 @@ namespace Lesson_43___Ключевое_слово_ref__что_это_и_пред
             return ref myArray;
         }
 
-        //ДЗ №2
+        //DZ_1 LESSON
+        public static void ResizeLesson<T>(ref T[] array, int newSize)
+        {
+            T[] newArray = new T[newSize];
+            for (int i = 0; i < array.Length && i < newArray.Length; i++)
+            {
+                newArray[i] = array[i];
+            }
+
+            array = newArray;
+        }
+
+        //ДЗ №2 (insert)
         public static ref int[] Rebuild(ref int[] myArray, int index, int value)
         {
             int res_num = (index > myArray.Length) ? index - myArray.Length : 1;
@@ -176,7 +188,11 @@ namespace Lesson_43___Ключевое_слово_ref__что_это_и_пред
 
             //ДЗ №1
             int[] dz_1 = { 4, 2};
+            string[] dz_1_2 = { "aaa", "vbvv"};
+            Array.Resize(ref dz_1, 10);
             Resize(ref dz_1, 10);
+            ResizeLesson(ref dz_1, 10);
+            ResizeLesson(ref dz_1_2, 10);
             Console.WriteLine(dz_1[7]);
 
             //ДЗ №2
