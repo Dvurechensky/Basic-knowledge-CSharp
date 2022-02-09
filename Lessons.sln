@@ -99,7 +99,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 42 - Операто�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 42_2 - Example 1 - Оператор условного NULL", "Lesson 42_2 - Example 1 - Оператор условного NULL\Lesson 42_2 - Example 1 - Оператор условного NULL.csproj", "{CD0F3063-D5AC-4B78-BC99-729D6FDD7478}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 43 - Ключевое слово ref, что это и предназначение", "Lesson 43 - Ключевое слово ref, что это и предназначение.\Lesson 43 - Ключевое слово ref, что это и предназначение.csproj", "{EB3EC543-CB41-4E1A-9500-9AEF5C3BC0B7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 43 - Ключевое слово ref, что это и предназначение", "Lesson 43 - Ключевое слово ref, что это и предназначение\Lesson 43 - Ключевое слово ref, что это и предназначение.csproj", "{EB3EC543-CB41-4E1A-9500-9AEF5C3BC0B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 44 - Ключевое слово out, разница out и ref", "Lesson 44 - Ключевое слово out, разница out и ref\Lesson 44 - Ключевое слово out, разница out и ref.csproj", "{ACE28A2C-EB6B-4244-B493-DD99867CB90D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -303,6 +305,10 @@ Global
 		{EB3EC543-CB41-4E1A-9500-9AEF5C3BC0B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB3EC543-CB41-4E1A-9500-9AEF5C3BC0B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB3EC543-CB41-4E1A-9500-9AEF5C3BC0B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACE28A2C-EB6B-4244-B493-DD99867CB90D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE28A2C-EB6B-4244-B493-DD99867CB90D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE28A2C-EB6B-4244-B493-DD99867CB90D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE28A2C-EB6B-4244-B493-DD99867CB90D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
