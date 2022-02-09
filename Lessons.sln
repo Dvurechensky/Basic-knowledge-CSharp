@@ -109,6 +109,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 46 - Ключево�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 47 - Необязательные параметры метода (параметры по умолчанию)", "Lesson 47 - Необязательные параметры метода (параметры по умолчанию)\Lesson 47 - Необязательные параметры метода (параметры по умолчанию).csproj", "{9B7F8691-E337-4CA4-9E24-46EF69803734}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 48 - Именнованные параметры", "Lesson 48 - Именнованные параметры\Lesson 48 - Именнованные параметры.csproj", "{A3DCBFE2-2D22-4464-9F15-3D71EDBB5F4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 49 - Что такое рекурсия, переполнение стека", "Lesson 49 - Что такое рекурсия, переполнение стека\Lesson 49 - Что такое рекурсия, переполнение стека.csproj", "{AE6951C4-54B0-4EC4-8E52-8BF73EF1766C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -327,6 +331,14 @@ Global
 		{9B7F8691-E337-4CA4-9E24-46EF69803734}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B7F8691-E337-4CA4-9E24-46EF69803734}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B7F8691-E337-4CA4-9E24-46EF69803734}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3DCBFE2-2D22-4464-9F15-3D71EDBB5F4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3DCBFE2-2D22-4464-9F15-3D71EDBB5F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3DCBFE2-2D22-4464-9F15-3D71EDBB5F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3DCBFE2-2D22-4464-9F15-3D71EDBB5F4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE6951C4-54B0-4EC4-8E52-8BF73EF1766C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE6951C4-54B0-4EC4-8E52-8BF73EF1766C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE6951C4-54B0-4EC4-8E52-8BF73EF1766C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE6951C4-54B0-4EC4-8E52-8BF73EF1766C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
