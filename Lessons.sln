@@ -113,7 +113,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 48 - Именнов�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 49 - Что такое рекурсия, переполнение стека", "Lesson 49 - Что такое рекурсия, переполнение стека\Lesson 49 - Что такое рекурсия, переполнение стека.csproj", "{AE6951C4-54B0-4EC4-8E52-8BF73EF1766C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 50 - Преобразование и приведение, явное и неявное", "Lesson 50 - Преобразование и приведение, явное и неявное.\Lesson 50 - Преобразование и приведение, явное и неявное.csproj", "{4E053D6F-23F8-4262-8331-7852E8788FB2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 50 - Преобразование и приведение, явное и неявное", "Lesson 50 - Преобразование и приведение, явное и неявное\Lesson 50 - Преобразование и приведение, явное и неявное.csproj", "{4E053D6F-23F8-4262-8331-7852E8788FB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 51 - Арифметическое переполнение, checked unchecked", "Lesson 51 - Арифметическое переполнение, checked unchecked.\Lesson 51 - Арифметическое переполнение, checked unchecked.csproj", "{768CA07B-FAC9-4233-BB4A-E522E5CED0FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 52 - Что такое Nullable, Null совместимые значимые типы Nullable", "Lesson 52 - Что такое Nullable, Null совместимые значимые типы Nullable.\Lesson 52 - Что такое Nullable, Null совместимые значимые типы Nullable.csproj", "{B2FBBA96-D2CA-4051-A9FF-36D4FD2FE1BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -345,6 +349,14 @@ Global
 		{4E053D6F-23F8-4262-8331-7852E8788FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E053D6F-23F8-4262-8331-7852E8788FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E053D6F-23F8-4262-8331-7852E8788FB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{768CA07B-FAC9-4233-BB4A-E522E5CED0FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{768CA07B-FAC9-4233-BB4A-E522E5CED0FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{768CA07B-FAC9-4233-BB4A-E522E5CED0FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{768CA07B-FAC9-4233-BB4A-E522E5CED0FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2FBBA96-D2CA-4051-A9FF-36D4FD2FE1BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2FBBA96-D2CA-4051-A9FF-36D4FD2FE1BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2FBBA96-D2CA-4051-A9FF-36D4FD2FE1BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2FBBA96-D2CA-4051-A9FF-36D4FD2FE1BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

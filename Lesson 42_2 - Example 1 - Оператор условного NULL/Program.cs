@@ -9,7 +9,7 @@ namespace Lesson_42_2___Example_1___Оператор_условного_NULL
 {
     class Program
     {
-        static Person GetPerson()
+        private static Person GetPerson()
         {
             Person person = null;
             return person;
