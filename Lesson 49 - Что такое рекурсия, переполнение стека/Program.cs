@@ -67,6 +67,47 @@ namespace Lesson_49___Что_такое_рекурсия__переполнени
             Foo(i);
         }
 
+        //DZ_1
+        private static void PrintArray<T>(T[] array, int index = 0)
+        {
+            Console.WriteLine(array[index]);
+            if (index + 1 == array.Length)
+                return;
+            index++;
+
+            PrintArray(array, index);
+        }
+
+        //DZ_2
+        private static void SumArray(int[] array, int index = 0, int Sum = 0)
+        {
+            Sum += array[index];
+            if (index + 1 == array.Length)
+            {
+                Console.WriteLine("Summa: " + Sum);
+                return;
+            }
+            index++;
+
+            SumArray(array, index, Sum);
+        }
+
+        //DZ_3
+        private static void SumNumber(int number, int indexSymphol = 0, int Summa = 0)
+        {
+            int sym = 0;
+            int.TryParse((number.ToString()[indexSymphol]).ToString(), out sym);
+            Summa += sym;
+            if (indexSymphol + 1 == number.ToString().Length)
+            {
+                Console.WriteLine("Summa_Number: " + Summa);
+                return;
+            }
+            indexSymphol++;
+
+            SumNumber(number, indexSymphol, Summa);
+        }
+
         static void Main(string[] args)
         {
             Foo(0);
@@ -79,6 +120,18 @@ namespace Lesson_49___Что_такое_рекурсия__переполнени
             {
                 Console.WriteLine(i.Value);
             }
+
+            //DZ 1
+            string[] dz_1 = { "33", "22", "11" };
+            PrintArray(dz_1);
+
+            //DZ 2
+            int[] dz_2 = { 1, 3, 4 };
+            SumArray(dz_2);
+
+            //DZ 3
+            int num = 564;
+            SumNumber(num);
         }
     }
 }
