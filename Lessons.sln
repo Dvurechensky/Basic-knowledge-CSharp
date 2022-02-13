@@ -115,9 +115,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 49 - Что тако
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 50 - Преобразование и приведение, явное и неявное", "Lesson 50 - Преобразование и приведение, явное и неявное\Lesson 50 - Преобразование и приведение, явное и неявное.csproj", "{4E053D6F-23F8-4262-8331-7852E8788FB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 51 - Арифметическое переполнение, checked unchecked", "Lesson 51 - Арифметическое переполнение, checked unchecked.\Lesson 51 - Арифметическое переполнение, checked unchecked.csproj", "{768CA07B-FAC9-4233-BB4A-E522E5CED0FA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 51 - Арифметическое переполнение, checked unchecked", "Lesson 51 - Арифметическое переполнение, checked unchecked\Lesson 51 - Арифметическое переполнение, checked unchecked.csproj", "{768CA07B-FAC9-4233-BB4A-E522E5CED0FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 52 - Что такое Nullable, Null совместимые значимые типы Nullable", "Lesson 52 - Что такое Nullable, Null совместимые значимые типы Nullable.\Lesson 52 - Что такое Nullable, Null совместимые значимые типы Nullable.csproj", "{B2FBBA96-D2CA-4051-A9FF-36D4FD2FE1BC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 52 - Что такое Nullable, Null совместимые значимые типы Nullable", "Lesson 52 - Что такое Nullable, Null совместимые значимые типы Nullable\Lesson 52 - Что такое Nullable, Null совместимые значимые типы Nullable.csproj", "{B2FBBA96-D2CA-4051-A9FF-36D4FD2FE1BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 53 - var . Это не тип данных. Неявно типизированные переменные", "Lesson 53 - var . Это не тип данных. Неявно типизированные переменные\Lesson 53 - var . Это не тип данных. Неявно типизированные переменные.csproj", "{E927DC0E-7736-47FF-B661-96534265380B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 54 - enum, что это, и для чего нужно - перечисления", "Lesson 54 - enum, что это, и для чего нужно - перечисления.\Lesson 54 - enum, что это, и для чего нужно - перечисления.csproj", "{56F7519C-2D4F-4939-B7DB-295EC0BDBF6C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -357,6 +361,14 @@ Global
 		{B2FBBA96-D2CA-4051-A9FF-36D4FD2FE1BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2FBBA96-D2CA-4051-A9FF-36D4FD2FE1BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2FBBA96-D2CA-4051-A9FF-36D4FD2FE1BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E927DC0E-7736-47FF-B661-96534265380B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E927DC0E-7736-47FF-B661-96534265380B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E927DC0E-7736-47FF-B661-96534265380B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E927DC0E-7736-47FF-B661-96534265380B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56F7519C-2D4F-4939-B7DB-295EC0BDBF6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56F7519C-2D4F-4939-B7DB-295EC0BDBF6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56F7519C-2D4F-4939-B7DB-295EC0BDBF6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56F7519C-2D4F-4939-B7DB-295EC0BDBF6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
