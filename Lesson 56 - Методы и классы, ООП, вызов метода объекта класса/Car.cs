@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Threading.Tasks;
 
 namespace Lesson_56___Методы_и_классы__ООП__вызов_метода_объекта_класса
 {

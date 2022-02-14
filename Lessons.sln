@@ -123,9 +123,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 53 - var . Это н
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 54 - enum, что это, и для чего нужно - перечисления", "Lesson 54 - enum, что это, и для чего нужно - перечисления\Lesson 54 - enum, что это, и для чего нужно - перечисления.csproj", "{56F7519C-2D4F-4939-B7DB-295EC0BDBF6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 55 - Что такое КЛАСС - ООП, объект, экземпляр класса", "Lesson 55 - Что такое КЛАСС - ООП, объект, экземпляр класса.\Lesson 55 - Что такое КЛАСС - ООП, объект, экземпляр класса.csproj", "{730EDE55-501D-4A60-B7E8-F6ADC743159C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 55 - Что такое КЛАСС - ООП, объект, экземпляр класса", "Lesson 55 - Что такое КЛАСС - ООП, объект, экземпляр класса\Lesson 55 - Что такое КЛАСС - ООП, объект, экземпляр класса.csproj", "{730EDE55-501D-4A60-B7E8-F6ADC743159C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 56 - Методы и классы, ООП, вызов метода объекта класса", "Lesson 56 - Методы и классы, ООП, вызов метода объекта класса.\Lesson 56 - Методы и классы, ООП, вызов метода объекта класса.csproj", "{E6B73F3E-92DD-4737-8FF8-A78B97CB387C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 56 - Методы и классы, ООП, вызов метода объекта класса", "Lesson 56 - Методы и классы, ООП, вызов метода объекта класса\Lesson 56 - Методы и классы, ООП, вызов метода объекта класса.csproj", "{E6B73F3E-92DD-4737-8FF8-A78B97CB387C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 57 - Модификаторы доступа, public, protected, private", "Lesson 57 - Модификаторы доступа, public, protected, private.\Lesson 57 - Модификаторы доступа, public, protected, private.csproj", "{3378E01F-43A7-4F27-8944-2FF46C35C4F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -381,6 +383,10 @@ Global
 		{E6B73F3E-92DD-4737-8FF8-A78B97CB387C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6B73F3E-92DD-4737-8FF8-A78B97CB387C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6B73F3E-92DD-4737-8FF8-A78B97CB387C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3378E01F-43A7-4F27-8944-2FF46C35C4F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3378E01F-43A7-4F27-8944-2FF46C35C4F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3378E01F-43A7-4F27-8944-2FF46C35C4F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3378E01F-43A7-4F27-8944-2FF46C35C4F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
