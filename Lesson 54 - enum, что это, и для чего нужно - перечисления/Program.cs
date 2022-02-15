@@ -9,7 +9,7 @@ namespace Lesson_54___enum__что_это__и_для_чего_нужно___пе�
 {
     class Program
     {
-        enum DayOfWeek : byte
+        public enum DayOfWeek : byte
         {
             Monday = 1,
             Tuesday,
@@ -29,7 +29,7 @@ namespace Lesson_54___enum__что_это__и_для_чего_нужно___пе�
             Orange
         }
 
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             while (true)
             {
