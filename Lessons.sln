@@ -129,11 +129,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 56 - Методы и
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 57 - Модификаторы доступа, public, protected, private", "Lesson 57 - Модификаторы доступа, public, protected, private\Lesson 57 - Модификаторы доступа, public, protected, private.csproj", "{3378E01F-43A7-4F27-8944-2FF46C35C4F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 58 - ИНКАПСУЛЯЦИЯ, примеры", "Lesson 58 - ИНКАПСУЛЯЦИЯ, примеры.\Lesson 58 - ИНКАПСУЛЯЦИЯ, примеры.csproj", "{2107BF8F-95A9-4A7A-9CB0-F676E59A887A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 58 - ИНКАПСУЛЯЦИЯ, примеры", "Lesson 58 - ИНКАПСУЛЯЦИЯ, примеры\Lesson 58 - ИНКАПСУЛЯЦИЯ, примеры.csproj", "{2107BF8F-95A9-4A7A-9CB0-F676E59A887A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 59 - Что такое конструктор класса, для чего, по умолчанию", "Lesson 59 - Что такое конструктор класса, для чего, по умолчанию.\Lesson 59 - Что такое конструктор класса, для чего, по умолчанию.csproj", "{90FB198E-A723-4127-B38F-6F3FE2180AED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 59 - Что такое конструктор класса, для чего, по умолчанию", "Lesson 59 - Что такое конструктор класса, для чего, по умолчанию\Lesson 59 - Что такое конструктор класса, для чего, по умолчанию.csproj", "{90FB198E-A723-4127-B38F-6F3FE2180AED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 60 - Перегрузка конструкторов класса, что это", "Lesson 60 - Перегрузка конструкторов класса, что это.\Lesson 60 - Перегрузка конструкторов класса, что это.csproj", "{0A6CE006-5DFA-4478-8ADC-3CA0F16CACBA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 60 - Перегрузка конструкторов класса, что это", "Lesson 60 - Перегрузка конструкторов класса, что это\Lesson 60 - Перегрузка конструкторов класса, что это.csproj", "{0A6CE006-5DFA-4478-8ADC-3CA0F16CACBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 61 - Ключевое слово this, this в конструкторе", "Lesson 61 - Ключевое слово this, this в конструкторе.\Lesson 61 - Ключевое слово this, this в конструкторе.csproj", "{A450AABD-15BC-433E-B9B9-9D91BF5F4BFA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -405,6 +407,10 @@ Global
 		{0A6CE006-5DFA-4478-8ADC-3CA0F16CACBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A6CE006-5DFA-4478-8ADC-3CA0F16CACBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A6CE006-5DFA-4478-8ADC-3CA0F16CACBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A450AABD-15BC-433E-B9B9-9D91BF5F4BFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A450AABD-15BC-433E-B9B9-9D91BF5F4BFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A450AABD-15BC-433E-B9B9-9D91BF5F4BFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A450AABD-15BC-433E-B9B9-9D91BF5F4BFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
