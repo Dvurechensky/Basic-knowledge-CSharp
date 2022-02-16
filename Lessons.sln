@@ -137,6 +137,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 60 - Перегру�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 61 - Ключевое слово this, this в конструкторе", "Lesson 61 - Ключевое слово this, this в конструкторе.\Lesson 61 - Ключевое слово this, this в конструкторе.csproj", "{A450AABD-15BC-433E-B9B9-9D91BF5F4BFA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 62 - Свойства get, set ключевое слово value, авто-свойства", "Lesson 62 - Свойства get, set ключевое слово value, авто-свойства.\Lesson 62 - Свойства get, set ключевое слово value, авто-свойства.csproj", "{D32F4616-1733-4491-81C6-D77F975DF171}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -411,6 +413,10 @@ Global
 		{A450AABD-15BC-433E-B9B9-9D91BF5F4BFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A450AABD-15BC-433E-B9B9-9D91BF5F4BFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A450AABD-15BC-433E-B9B9-9D91BF5F4BFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D32F4616-1733-4491-81C6-D77F975DF171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D32F4616-1733-4491-81C6-D77F975DF171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D32F4616-1733-4491-81C6-D77F975DF171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D32F4616-1733-4491-81C6-D77F975DF171}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
