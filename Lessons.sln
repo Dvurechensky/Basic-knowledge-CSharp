@@ -139,6 +139,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 61 - Ключево�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 62 - Свойства get, set, ключевое слово value", "Lesson 62 - Свойства get, set, ключевое слово value\Lesson 62 - Свойства get, set, ключевое слово value.csproj", "{50B48D1C-0ED4-4937-A570-D4B491FE1AA8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 63 - Статические поля класса, ключевое слово static", "Lesson 63 - Статические поля класса, ключевое слово static.\Lesson 63 - Статические поля класса, ключевое слово static.csproj", "{CAD89597-A781-491C-9B95-0C2D6DA3C70B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -417,6 +419,10 @@ Global
 		{50B48D1C-0ED4-4937-A570-D4B491FE1AA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50B48D1C-0ED4-4937-A570-D4B491FE1AA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50B48D1C-0ED4-4937-A570-D4B491FE1AA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAD89597-A781-491C-9B95-0C2D6DA3C70B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD89597-A781-491C-9B95-0C2D6DA3C70B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD89597-A781-491C-9B95-0C2D6DA3C70B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD89597-A781-491C-9B95-0C2D6DA3C70B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
