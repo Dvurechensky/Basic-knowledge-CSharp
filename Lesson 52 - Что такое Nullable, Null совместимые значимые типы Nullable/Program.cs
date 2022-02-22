@@ -31,11 +31,11 @@ namespace Lesson_52___Что_такое_Nullable__Null_совместимые_з
             Nullable<DateTime> dateTime1 = null;
             Console.WriteLine(dateTime1);
 
-            int? a = 5;
+            int? aa = 5;
             int? b = 22;
             int? result = a + b;
             Console.WriteLine(result);
-            Console.WriteLine(a == b);
+            Console.WriteLine(aa == b);
             Console.WriteLine(a > b);
             Console.WriteLine(a < b);
         }

@@ -2,7 +2,7 @@
 
 namespace Lesson_55___Что_такое_КЛАСС___ООП__объект__экземпляр_класса
 {
-    class Student
+    class Students
     {
         public Guid id; // - специальная структура для описания объекта, создания уникальных id
         public string firstName;

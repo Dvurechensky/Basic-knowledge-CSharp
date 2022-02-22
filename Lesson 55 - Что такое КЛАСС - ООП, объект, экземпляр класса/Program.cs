@@ -44,9 +44,9 @@ namespace Lesson_55___Что_такое_КЛАСС___ООП__объект__эк�
 
     class Program
     {
-        static Student GetStudent()
+        static Students GetStudent()
         {
-            return new Student
+            return new Students
             {
                 id = Guid.NewGuid(),
                 firstName = "first",
@@ -57,7 +57,7 @@ namespace Lesson_55___Что_такое_КЛАСС___ООП__объект__эк�
             };
         }
 
-        static void Print(Student student_val)
+        static void Print(Students student_val)
         {
             Console.WriteLine($"id: {student_val.id}, firstName: {student_val.firstName},\n" +
                               $"lastName: {student_val.lastName}, middleName: {student_val.middleName},\n" +
