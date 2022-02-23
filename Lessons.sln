@@ -143,6 +143,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 63 - Статиче�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 64 - Статические методы, свойства, работа static", "Lesson 64 - Статические методы, свойства, работа static\Lesson 64 - Статические методы, свойства, работа static.csproj", "{C203E2FB-EEB4-4496-9BC2-2951920CDD56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 65 - Статический конструктор, как работает ключ. слово static", "Lesson 65 - Статический конструктор, как работает ключ. слово static.\Lesson 65 - Статический конструктор, как работает ключ. слово static.csproj", "{FDD50EA7-65F8-459D-9266-51E229757B78}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -429,6 +431,10 @@ Global
 		{C203E2FB-EEB4-4496-9BC2-2951920CDD56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C203E2FB-EEB4-4496-9BC2-2951920CDD56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C203E2FB-EEB4-4496-9BC2-2951920CDD56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDD50EA7-65F8-459D-9266-51E229757B78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDD50EA7-65F8-459D-9266-51E229757B78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDD50EA7-65F8-459D-9266-51E229757B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDD50EA7-65F8-459D-9266-51E229757B78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
