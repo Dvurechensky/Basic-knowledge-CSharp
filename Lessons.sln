@@ -143,7 +143,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 63 - Статиче�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 64 - Статические методы, свойства, работа static", "Lesson 64 - Статические методы, свойства, работа static\Lesson 64 - Статические методы, свойства, работа static.csproj", "{C203E2FB-EEB4-4496-9BC2-2951920CDD56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 65 - Статический конструктор, как работает ключ. слово static", "Lesson 65 - Статический конструктор, как работает ключ. слово static.\Lesson 65 - Статический конструктор, как работает ключ. слово static.csproj", "{FDD50EA7-65F8-459D-9266-51E229757B78}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 65 - Статический конструктор, как работает ключ. слово static", "Lesson 65 - Статический конструктор, как работает ключ. слово static\Lesson 65 - Статический конструктор, как работает ключ. слово static.csproj", "{FDD50EA7-65F8-459D-9266-51E229757B78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 66 - Статический класс", "Lesson 66 - Статический класс.\Lesson 66 - Статический класс.csproj", "{78912F30-35BD-411C-8CA9-49A2A3726745}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 67 - Методы расширения, extension", "Lesson 67 - Методы расширения, extension.\Lesson 67 - Методы расширения, extension.csproj", "{885DA3AA-3B3C-43EC-823D-A0B73D359B6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 68 - partial класс, частичные типы, partial методы", "Lesson 68 - partial класс, частичные типы, partial методы.\Lesson 68 - partial класс, частичные типы, partial методы.csproj", "{A3011C15-258D-4A62-B01B-91EFEEA9C936}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -435,6 +441,18 @@ Global
 		{FDD50EA7-65F8-459D-9266-51E229757B78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDD50EA7-65F8-459D-9266-51E229757B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDD50EA7-65F8-459D-9266-51E229757B78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78912F30-35BD-411C-8CA9-49A2A3726745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78912F30-35BD-411C-8CA9-49A2A3726745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78912F30-35BD-411C-8CA9-49A2A3726745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78912F30-35BD-411C-8CA9-49A2A3726745}.Release|Any CPU.Build.0 = Release|Any CPU
+		{885DA3AA-3B3C-43EC-823D-A0B73D359B6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{885DA3AA-3B3C-43EC-823D-A0B73D359B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{885DA3AA-3B3C-43EC-823D-A0B73D359B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{885DA3AA-3B3C-43EC-823D-A0B73D359B6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3011C15-258D-4A62-B01B-91EFEEA9C936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3011C15-258D-4A62-B01B-91EFEEA9C936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3011C15-258D-4A62-B01B-91EFEEA9C936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3011C15-258D-4A62-B01B-91EFEEA9C936}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

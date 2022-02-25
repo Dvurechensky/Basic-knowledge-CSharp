@@ -8,6 +8,30 @@
 
 namespace Lesson_65___Статический_конструктор__как_работает_ключ.слово_static
 {
+    class dbRepository
+    {
+        private static string connectString;
+
+        static dbRepository() //один раз срабатывает после старта программы
+        {
+            ConfigurationManager configurationManager = new ConfigurationManager();
+            connectString = configurationManager.GetConnectionString();
+        }
+
+        public void GetData()
+        {
+            Console.WriteLine($"Использую: {connectString}");
+        }
+    }
+
+    class ConfigurationManager
+    {
+        public string GetConnectionString()
+        {
+            return "localDB";
+        }
+    }
+
     class Terro
     {
         public Terro()
@@ -30,9 +54,12 @@ namespace Lesson_65___Статический_конструктор__как_ра
             Console.WriteLine("Статический конструктор");
         }
 
+        public static int g;
+
         public static void Foo()
         {
             Console.WriteLine("Foo");
+            g = 2;
         }
     }
 
@@ -40,10 +67,14 @@ namespace Lesson_65___Статический_конструктор__как_ра
     {
         static void Main(string[] args)
         {
+            Terro.Foo();
             Terro terro = new Terro();
             new Terro();
             new Terro();
             new Terro();
+
+            dbRepository dbRepository = new dbRepository();
+            dbRepository.GetData();
         }
     }
 }
