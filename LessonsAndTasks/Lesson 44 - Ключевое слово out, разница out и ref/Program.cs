@@ -22,7 +22,7 @@ namespace Lesson_44___Ключевое_слово_out__разница_out_и_ref
             System.Console.WriteLine(value);
         }
 
-        static void Main(string[] args)
+        static void Main()
         {
             int a = 10;
             int aa;

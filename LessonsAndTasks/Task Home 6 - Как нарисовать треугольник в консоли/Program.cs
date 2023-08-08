@@ -8,7 +8,7 @@ namespace Task_Home_6___Как_нарисовать_треугольник_в_к
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.Write("Ввелите высоту треугольника: ");
             int height = int.Parse(Console.ReadLine());

@@ -49,12 +49,5 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Lesson 40_wf - Оператор объекдинения с  NULL\Lesson 40_wf - Оператор объекдинения с  NULL.csproj">
-      <Project>{E936CD37-FC1B-4D05-8BE7-B3F29EC393B1}</Project>
-      <Name>Lesson 40_wf - Оператор объекдинения с  NULL</Name>
-      <EmbedInteropTypes>True</EmbedInteropTypes>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

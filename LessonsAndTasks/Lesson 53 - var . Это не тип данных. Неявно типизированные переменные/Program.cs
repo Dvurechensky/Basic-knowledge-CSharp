@@ -24,7 +24,7 @@ namespace Lesson_53___var.Это_не_тип_данных.Неявно_типи�
             return aa;
         }
 
-        static void Main(string[] args)
+        static void Main()
         {
             var u = 5;
 

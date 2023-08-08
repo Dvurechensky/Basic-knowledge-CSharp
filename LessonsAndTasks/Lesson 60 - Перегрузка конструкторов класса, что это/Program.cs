@@ -75,7 +75,7 @@ namespace Lesson_60___Перегрузка_конструкторов_класс
 
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Point point = new Point();
             point.Print();

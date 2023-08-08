@@ -34,7 +34,7 @@ namespace Lesson_57___Модификаторы_доступа__public__protected
 
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Point point = new Point();
 

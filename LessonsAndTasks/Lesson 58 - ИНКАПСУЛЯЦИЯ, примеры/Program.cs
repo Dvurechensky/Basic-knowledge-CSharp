@@ -40,7 +40,7 @@ namespace Lesson_58___ИНКАПСУЛЯЦИЯ__примеры
 
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Gun gun = new Gun();
             gun.Shot();

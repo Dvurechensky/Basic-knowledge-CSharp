@@ -13,7 +13,7 @@ namespace Lesson_50___Преобразование_и_приведение__яв
             Console.WriteLine(value);
         }
 
-        static void Main(string[] args)
+        static void Main()
         {
             int a = 5;
             double aa = 5.7;

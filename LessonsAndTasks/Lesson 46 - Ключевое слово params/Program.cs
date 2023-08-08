@@ -48,7 +48,7 @@ namespace Lesson_46___Ключевое_слово_params
             return result;
         }
 
-        static void Main(string[] args)
+        static void Main()
         {
             int result = Sum(5, 10);
 

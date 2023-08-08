@@ -108,7 +108,7 @@ namespace Lesson_49___Что_такое_рекурсия__переполнени
             SumNumber(number, indexSymphol, Summa);
         }
 
-        static void Main(string[] args)
+        static void Main()
         {
             Foo(0);
 

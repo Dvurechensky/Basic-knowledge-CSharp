@@ -7,27 +7,23 @@
  * 
  * обращение к элементам двумерного массива
  */
-
-namespace Lesson_30___Двумерный_массив.Объявление.Инициализация.Индексы
+class Program
 {
-    class Program
+    static void Main()
     {
-        static void Main(string[] args)
+        //тип_данных [,] имя_массива;
+
+        int[,] myArray = new int[3, 5];
+        int[,] myArray_1 =
         {
-            //тип_данных [,] имя_массива;
+            { 34, 44, 55, 22, 33 },
+            { 34, 44, 55, 22, 33 },
+            { 34, 44, 55, 22, 33 }
+        };
 
-            int[,] myArray = new int[3, 5];
-            int[,] myArray_1 =
-            {
-                { 34, 44, 55, 22, 33 },
-                { 34, 44, 55, 22, 33 },
-                { 34, 44, 55, 22, 33 }
-            };
+        myArray[0, 2] = 90;
 
-            
-            myArray[0, 2] = 90;
-
-            Console.WriteLine(myArray[0,2]);
-        }
+        Console.WriteLine(myArray[0, 2]);
+        Console.ReadKey();
     }
 }

@@ -49,55 +49,51 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19_Lesson - Цикл for в
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20_Lesson - Ключевое слово break (оператор)", "Lesson 20 - Ключевое слово break (оператор)\20_Lesson - Ключевое слово break (оператор).csproj", "{E962F366-B388-4EE4-B276-000F1B4B8052}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 21 - Ключевое слово continue", "Lesson 21 - Ключевое слово continue\Lesson 21 - Ключевое слово continue.csproj", "{C8EB51D4-B80E-4227-9DC6-6E6D088F24BB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21_Lesson - Ключевое слово continue", "Lesson 21 - Ключевое слово continue\21_Lesson - Ключевое слово continue.csproj", "{C8EB51D4-B80E-4227-9DC6-6E6D088F24BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 22 - Вложенные циклы. Как работают", "Lesson 22 - Вложенные циклы. Как работают\Lesson 22 - Вложенные циклы. Как работают.csproj", "{542E79A5-E2AE-4446-AFF6-17D55EDA286D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22_Lesson - Вложенные циклы. Как работают", "Lesson 22 - Вложенные циклы. Как работают\22_Lesson - Вложенные циклы. Как работают.csproj", "{542E79A5-E2AE-4446-AFF6-17D55EDA286D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task Home 6 - Как нарисовать треугольник в консоли", "Task Home 6 - Как нарисовать треугольник в консоли\Task Home 6 - Как нарисовать треугольник в консоли.csproj", "{4FFDDB39-D141-4EEA-ACC3-767C5BE4D955}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 23 - Тернарный оператор. Что это. Пример", "Lesson 23 - Тернарный оператор. Что это. Пример\Lesson 23 - Тернарный оператор. Что это. Пример.csproj", "{C3596099-8F86-47F2-BA83-EA56E3BC76D0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23_Lesson - Тернарный оператор. Что это. Пример", "Lesson 23 - Тернарный оператор. Что это. Пример\23_Lesson - Тернарный оператор. Что это. Пример.csproj", "{C3596099-8F86-47F2-BA83-EA56E3BC76D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 24 - Что такое массивы. Одномерный массив. Примеры", "Lesson 24 - Что такое массивы. Одномерный массив. Примеры\Lesson 24 - Что такое массивы. Одномерный массив. Примеры.csproj", "{46607273-7BE4-41A6-90E5-ACFC1479A9AC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24_Lesson - Что такое массивы. Одномерный массив. Примеры", "Lesson 24 - Что такое массивы. Одномерный массив. Примеры\24_Lesson - Что такое массивы. Одномерный массив. Примеры.csproj", "{46607273-7BE4-41A6-90E5-ACFC1479A9AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 25 - Инициализация массива. Способы", "Lesson 25 - Инициализация массива. Способы\Lesson 25 - Инициализация массива. Способы.csproj", "{F1F3121A-C3D9-46DB-A69E-CF810CD8A362}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25_Lesson - Инициализация массива. Способы", "Lesson 25 - Инициализация массива. Способы\25_Lesson - Инициализация массива. Способы.csproj", "{F1F3121A-C3D9-46DB-A69E-CF810CD8A362}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 26 - Вывод массива. Перебор массива. Массивы и циклы", "Lesson 26 - Вывод массива. Перебор массива. Массивы и циклы\Lesson 26 - Вывод массива. Перебор массива. Массивы и циклы.csproj", "{C0D360CD-3C06-45CC-A0B0-4A5AC0783320}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26_Lesson - Вывод массива. Перебор массива. Массивы и циклы", "Lesson 26 - Вывод массива. Перебор массива. Массивы и циклы\26_Lesson - Вывод массива. Перебор массива. Массивы и циклы.csproj", "{C0D360CD-3C06-45CC-A0B0-4A5AC0783320}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 27 - Как работать с массивами на самом деле", "Lesson 27 - Как работать с массивами на самом деле\Lesson 27 - Как работать с массивами на самом деле.csproj", "{027E7BEF-CE49-4672-93CD-9F3F4471B92A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27_Lesson - Как работать с массивами на самом деле", "Lesson 27 - Как работать с массивами на самом деле\27_Lesson - Как работать с массивами на самом деле.csproj", "{027E7BEF-CE49-4672-93CD-9F3F4471B92A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 29 - Многомерные массивы. Двумерный прямоугольный массив", "Lesson 29 - Многомерные массивы. Двумерный прямоугольный массив\Lesson 29 - Многомерные массивы. Двумерный прямоугольный массив.csproj", "{E85F79E9-98D3-4451-9CF9-163631DBB6AF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29_Lesson - Многомерные массивы. Двумерный прямоугольный массив", "Lesson 29 - Многомерные массивы. Двумерный прямоугольный массив\29_Lesson - Многомерные массивы. Двумерный прямоугольный массив.csproj", "{E85F79E9-98D3-4451-9CF9-163631DBB6AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 30 - Двумерный массив. Объявление. Инициализация. Индексы", "Lesson 30 - Двумерный массив. Объявление. Инициализация. Индексы\Lesson 30 - Двумерный массив. Объявление. Инициализация. Индексы.csproj", "{31F0D7A5-6BDF-49BD-B2A7-3BB7879213BB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30_Lesson - Двумерный массив. Объявление. Инициализация. Индексы", "Lesson 30 - Двумерный массив. Объявление. Инициализация. Индексы\30_Lesson - Двумерный массив. Объявление. Инициализация. Индексы.csproj", "{31F0D7A5-6BDF-49BD-B2A7-3BB7879213BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 31 - Вывод двумерного массива", "Lesson 31 - Вывод двумерного массива\Lesson 31 - Вывод двумерного массива.csproj", "{8A4C8531-FC1F-4BE9-9625-B359984F0CEB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31_Lesson - Вывод двумерного массива", "Lesson 31 - Вывод двумерного массива\31_Lesson - Вывод двумерного массива.csproj", "{8A4C8531-FC1F-4BE9-9625-B359984F0CEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 32 - Заполнение двумерного масива, случайными числами", "Lesson 32 - Заполнение двумерного масива, случайными числами\Lesson 32 - Заполнение двумерного масива, случайными числами.csproj", "{78D5B5FF-0681-49E1-9752-B4AB395A47AB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32_Lesson - Заполнение двумерного масива, случайными числами", "Lesson 32 - Заполнение двумерного масива, случайными числами\32_Lesson - Заполнение двумерного масива, случайными числами.csproj", "{78D5B5FF-0681-49E1-9752-B4AB395A47AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 33 - Ступенчатые (зубчатые) массивы", "Lesson 33 - Ступенчатые (зубчатые) массивы\Lesson 33 - Ступенчатые (зубчатые) массивы.csproj", "{9AA9A703-8243-4EAE-B022-EE2FF4027A85}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33_Lesson - Ступенчатые (зубчатые) массивы", "Lesson 33 - Ступенчатые (зубчатые) массивы\33_Lesson - Ступенчатые (зубчатые) массивы.csproj", "{9AA9A703-8243-4EAE-B022-EE2FF4027A85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 34 - Трехмерные массивы, многомерные массивы любой мерности", "Lesson 34 - Трехмерные массивы, многомерные массивы любой мерности\Lesson 34 - Трехмерные массивы, многомерные массивы любой мерности.csproj", "{AA3C2474-5FFC-45B8-8C23-CCE0E2DBD851}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34_Lesson - Трехмерные массивы, многомерные массивы любой мерности", "Lesson 34 - Трехмерные массивы, многомерные массивы любой мерности\34_Lesson - Трехмерные массивы, многомерные массивы любой мерности.csproj", "{AA3C2474-5FFC-45B8-8C23-CCE0E2DBD851}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 35 - Функции и методы, что это, примеры", "Lesson 35 - Функции и методы, что это, примеры\Lesson 35 - Функции и методы, что это, примеры.csproj", "{D456B58D-3801-4B76-BE69-82A4FDB5A993}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35_Lesson - Функции и методы, что это, примеры", "Lesson 35 - Функции и методы, что это, примеры\35_Lesson - Функции и методы, что это, примеры.csproj", "{D456B58D-3801-4B76-BE69-82A4FDB5A993}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 36  - Перегрузка методов", "Lesson 36  - Перегрузка методов\Lesson 36  - Перегрузка методов.csproj", "{F34542A8-0AAA-46C7-98DE-0DF72E9A7E2F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36_Lesson  - Перегрузка методов", "Lesson 36  - Перегрузка методов\36_Lesson  - Перегрузка методов.csproj", "{F34542A8-0AAA-46C7-98DE-0DF72E9A7E2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 37  - Область видимости, контекст переменной, конфликт областей", "Lesson 37  - Область видимости, контекст переменной, конфликт областей\Lesson 37  - Область видимости, контекст переменной, конфликт областей.csproj", "{149CE343-79C3-4AE2-B61E-51845872C151}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "37_Lesson  - Область видимости, контекст переменной, конфликт областей", "Lesson 37  - Область видимости, контекст переменной, конфликт областей\37_Lesson  - Область видимости, контекст переменной, конфликт областей.csproj", "{149CE343-79C3-4AE2-B61E-51845872C151}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 38  - Ссылочные и значимые типы, стек и куча", "Lesson 38  - Ссылочные и значимые типы, стек и куча\Lesson 38  - Ссылочные и значимые типы, стек и куча.csproj", "{AA330FB4-E2E1-4570-9ECD-65F8100E90D5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "38_Lesson  - Ссылочные и значимые типы, стек и куча", "Lesson 38  - Ссылочные и значимые типы, стек и куча\38_Lesson  - Ссылочные и значимые типы, стек и куча.csproj", "{AA330FB4-E2E1-4570-9ECD-65F8100E90D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 39 - Что такое NULL", "Lesson 39 - Что такое NULL\Lesson 39 - Что такое NULL.csproj", "{5BE6607E-0B8C-441E-B80E-14236D377D08}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "39_Lesson - Что такое NULL", "Lesson 39 - Что такое NULL\39_Lesson - Что такое NULL.csproj", "{5BE6607E-0B8C-441E-B80E-14236D377D08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 40 - Оператор объекдинения с  NULL", "Lesson 40 - Оператор объекдинения с  NULL\Lesson 40 - Оператор объекдинения с  NULL.csproj", "{D4526E9D-E808-4922-8841-96A03BB14650}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40_Lesson - Оператор объекдинения с  NULL", "Lesson 40 - Оператор объекдинения с  NULL\40_Lesson - Оператор объекдинения с  NULL.csproj", "{D4526E9D-E808-4922-8841-96A03BB14650}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 40_wf - Оператор объекдинения с  NULL", "Lesson 40_wf - Оператор объекдинения с  NULL\Lesson 40_wf - Оператор объекдинения с  NULL.csproj", "{E936CD37-FC1B-4D05-8BE7-B3F29EC393B1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "42_Lesson - Оператор условного NULL", "Lesson 42 - Оператор условного NULL\42_Lesson - Оператор условного NULL.csproj", "{9737100B-A415-4E7D-ABD1-0D2B89981F16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 41 - Оператор присваивания объединения со значением NULL", "Lesson 41 - Оператор присваивания объединения со значением NULL\Lesson 41 - Оператор присваивания объединения со значением NULL.csproj", "{8E106150-257D-45F1-84BD-FC7AAE39FF5B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "42_2_Lesson - Example 1 - Оператор условного NULL", "Lesson 42_2 - Example 1 - Оператор условного NULL\42_2_Lesson - Example 1 - Оператор условного NULL.csproj", "{CD0F3063-D5AC-4B78-BC99-729D6FDD7478}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 42 - Оператор условного NULL", "Lesson 42 - Оператор условного NULL\Lesson 42 - Оператор условного NULL.csproj", "{9737100B-A415-4E7D-ABD1-0D2B89981F16}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 42_2 - Example 1 - Оператор условного NULL", "Lesson 42_2 - Example 1 - Оператор условного NULL\Lesson 42_2 - Example 1 - Оператор условного NULL.csproj", "{CD0F3063-D5AC-4B78-BC99-729D6FDD7478}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 43 - Ключевое слово ref, что это и предназначение", "Lesson 43 - Ключевое слово ref, что это и предназначение\Lesson 43 - Ключевое слово ref, что это и предназначение.csproj", "{EB3EC543-CB41-4E1A-9500-9AEF5C3BC0B7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "43_Lesson - Ключевое слово ref, что это и предназначение", "Lesson 43 - Ключевое слово ref, что это и предназначение\43_Lesson - Ключевое слово ref, что это и предназначение.csproj", "{EB3EC543-CB41-4E1A-9500-9AEF5C3BC0B7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 44 - Ключевое слово out, разница out и ref", "Lesson 44 - Ключевое слово out, разница out и ref\Lesson 44 - Ключевое слово out, разница out и ref.csproj", "{ACE28A2C-EB6B-4244-B493-DD99867CB90D}"
 EndProject
@@ -152,6 +148,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_Lesson - Цикл while", "Lesson 16 - Цикл while\16_Lesson - Цикл while.csproj", "{8FCFD429-4E9C-4B5D-B3C5-CF398BD0F3F2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17_Lesson - Цикл do while", "Lesson 17 - Цикл do while\17_Lesson - Цикл do while.csproj", "{60AE567A-7D98-47A8-BBA3-74DC52A32BC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "41_Lesson - Оператор присваивания объединения со значением NULL", "Lesson 41 - Оператор присваивания объединения со значением NULL\41_Lesson - Оператор присваивания объединения со значением NULL.csproj", "{8E106150-257D-45F1-84BD-FC7AAE39FF5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40_wf_Lesson - Оператор объединения с  NULL", "40_wf_Lesson - Оператор объединения с  NULL\40_wf_Lesson - Оператор объединения с  NULL.csproj", "{C89BEC2D-AC6B-4836-8D04-80B00362656A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -331,14 +331,6 @@ Global
 		{D4526E9D-E808-4922-8841-96A03BB14650}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4526E9D-E808-4922-8841-96A03BB14650}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4526E9D-E808-4922-8841-96A03BB14650}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E936CD37-FC1B-4D05-8BE7-B3F29EC393B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E936CD37-FC1B-4D05-8BE7-B3F29EC393B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E936CD37-FC1B-4D05-8BE7-B3F29EC393B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E936CD37-FC1B-4D05-8BE7-B3F29EC393B1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8E106150-257D-45F1-84BD-FC7AAE39FF5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8E106150-257D-45F1-84BD-FC7AAE39FF5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8E106150-257D-45F1-84BD-FC7AAE39FF5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8E106150-257D-45F1-84BD-FC7AAE39FF5B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9737100B-A415-4E7D-ABD1-0D2B89981F16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9737100B-A415-4E7D-ABD1-0D2B89981F16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9737100B-A415-4E7D-ABD1-0D2B89981F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -459,6 +451,14 @@ Global
 		{60AE567A-7D98-47A8-BBA3-74DC52A32BC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60AE567A-7D98-47A8-BBA3-74DC52A32BC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60AE567A-7D98-47A8-BBA3-74DC52A32BC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E106150-257D-45F1-84BD-FC7AAE39FF5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E106150-257D-45F1-84BD-FC7AAE39FF5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E106150-257D-45F1-84BD-FC7AAE39FF5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E106150-257D-45F1-84BD-FC7AAE39FF5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C89BEC2D-AC6B-4836-8D04-80B00362656A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C89BEC2D-AC6B-4836-8D04-80B00362656A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C89BEC2D-AC6B-4836-8D04-80B00362656A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C89BEC2D-AC6B-4836-8D04-80B00362656A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

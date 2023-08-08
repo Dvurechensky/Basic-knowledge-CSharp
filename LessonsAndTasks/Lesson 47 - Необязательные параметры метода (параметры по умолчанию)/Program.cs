@@ -23,7 +23,7 @@ namespace Lesson_47___Необязательные_параметры_метод
             return result;
         }
 
-        static void Main(string[] args)
+        static void Main()
         {
             Sum(2, 3);
         }

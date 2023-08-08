@@ -1,58 +1,48 @@
 ﻿using System;
 
 /*
- * 
  * Тернарный оператор.
- * 
  * [первый операнд - условие]?[второй операнд if_true]:[третий операнд if_false]
- * 
  */
-
-namespace Lesson_23___Тернарный_оператор.Что_это.Пример
+class Program
 {
-    class Program
+    static void Main()
     {
-        static void Main(string[] args)
-        {
-            int a = 0;
+        int a = 0;
 
-            //Унарная операция
-            a++;
+        a++;            //Унарная операция
+        int b = 0;
+        int c = a + b;  //Бинарная операция
 
-            int b = 0;
-            //Бинарная операция
-            int c = a + b;
+        //Тернарная операция
+        bool accessAllowed;
+        string storedPassword = "qwerty";
+        string enteredPassword = Console.ReadLine();
 
-            //Тернарная операция
-            bool accessAllowed;
-            string storedPassword = "qwerty";
-            string enteredPassword = Console.ReadLine();
+        if (enteredPassword == storedPassword)
+            accessAllowed = true;
+        else
+            accessAllowed = false;
 
-            if (enteredPassword == storedPassword)
-                accessAllowed = true;
-            else
-                accessAllowed = false;
+        Console.WriteLine(accessAllowed);
 
-            Console.WriteLine(accessAllowed);
+        Console.ReadLine();
 
-            Console.ReadLine();
+        accessAllowed = enteredPassword == storedPassword ? true : false;
 
-            accessAllowed = enteredPassword == storedPassword ? true : false;
+        Console.WriteLine(accessAllowed ? "успешно" : "не успешно");
 
-            Console.WriteLine(accessAllowed ? "успешно" : "не успешно");
+        Console.ReadLine();
 
-            Console.ReadLine();
+        accessAllowed = Console.ReadLine() == "qwerty";
+        Console.WriteLine(accessAllowed ? "успешно" : "не успешно");
 
-            accessAllowed = Console.ReadLine() == "qwerty";
-            Console.WriteLine(accessAllowed ? "успешно" : "не успешно");
+        Console.ReadLine();
 
-            Console.ReadLine();
+        int inputData = int.Parse(Console.ReadLine());
+        int outputData = inputData < 0 ? 0 : inputData;
+        Console.WriteLine(outputData);
 
-            int inputData = int.Parse(Console.ReadLine());
-            int outputData = inputData < 0 ? 0 : inputData;
-            Console.WriteLine(outputData);
-
-            Console.ReadLine();
-        }
+        Console.ReadKey();
     }
 }

@@ -9,7 +9,7 @@ namespace Lesson_51___Арифметическое_переполнение__che
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             #region Для целочисленных типов данных
             byte agression = 1;

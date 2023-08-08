@@ -3,41 +3,37 @@
 /*
  * Что такое NULL
  */
-
-namespace Lesson_39___Что_такое_NULL
+class MyClass
 {
-    class MyClass
-    {
 
+}
+
+struct MyStruct
+{
+
+}
+
+class Program
+{
+    static void Heap()
+    {
+        int[] a = new int[10];
     }
 
-    struct MyStruct
+    static void Main()
     {
+        bool b;
+        int a;
+        double d;
 
-    }
+        //У классов - NULL
+        Random random;
+        int[] arr;
+        MyClass myClass;
 
-    class Program
-    {
-        static void Heap()
-        {
-            int[] a = new int[10];
-        }
+        MyStruct myStruct;
 
-
-        static void Main(string[] args)
-        {
-            bool b;
-            int a;
-            double d;
-
-            //У классов - NULL
-            Random random;
-            int[] arr;
-            MyClass myClass;
-
-            MyStruct myStruct;
-
-            Heap();
-        }
+        Heap();
+        Console.ReadKey();
     }
 }

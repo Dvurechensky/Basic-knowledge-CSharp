@@ -69,7 +69,7 @@ namespace Lesson_59___Что_такое_конструктор_класса__д�
     }
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Gun gun = new Gun(isLoaded: true); //new - конструктор по умолчанию (спец метод для создания объекта класса)
             gun.Shot();

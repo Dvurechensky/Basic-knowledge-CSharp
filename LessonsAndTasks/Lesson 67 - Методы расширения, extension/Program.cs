@@ -9,7 +9,7 @@ namespace Lesson_67___Методы_расширения__extension
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             DateTime currentDateTime = DateTime.Now;
             currentDateTime.Print();

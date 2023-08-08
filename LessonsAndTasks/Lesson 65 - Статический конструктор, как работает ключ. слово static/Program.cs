@@ -65,7 +65,7 @@ namespace Lesson_65___Статический_конструктор__как_ра
 
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Terro.Foo();
             Terro terro = new Terro();

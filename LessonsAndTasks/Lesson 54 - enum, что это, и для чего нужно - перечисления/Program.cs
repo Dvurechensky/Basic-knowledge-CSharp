@@ -29,7 +29,7 @@ namespace Lesson_54___enum__что_это__и_для_чего_нужно___пе�
             Orange
         }
 
-        public static void Main(string[] args)
+        public static void Main()
         {
             while (true)
             {

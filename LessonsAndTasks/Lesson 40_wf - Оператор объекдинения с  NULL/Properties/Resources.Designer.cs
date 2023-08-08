@@ -8,64 +8,60 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Lesson_40_wf___Оператор_объекдинения_с__NULL.Properties
+
+/// <summary>
+///   Класс ресурсов со строгим типом для поиска локализованных строк и пр.
+/// </summary>
+// Этот класс был автоматически создан при помощи StronglyTypedResourceBuilder
+// класс с помощью таких средств, как ResGen или Visual Studio.
+// Для добавления или удаления члена измените файл .ResX, а затем перезапустите ResGen
+// с параметром /str или заново постройте свой VS-проект.
+[global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
+[global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+[global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
+internal class Resources
 {
 
+    private static global::System.Resources.ResourceManager resourceMan;
+
+    private static global::System.Globalization.CultureInfo resourceCulture;
+
+    [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
+    internal Resources()
+    {
+    }
 
     /// <summary>
-    ///   Класс ресурсов со строгим типом для поиска локализованных строк и пр.
+    ///   Возврат кэшированного экземпляра ResourceManager, используемого этим классом.
     /// </summary>
-    // Этот класс был автоматически создан при помощи StronglyTypedResourceBuilder
-    // класс с помощью таких средств, как ResGen или Visual Studio.
-    // Для добавления или удаления члена измените файл .ResX, а затем перезапустите ResGen
-    // с параметром /str или заново постройте свой VS-проект.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-    [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    internal class Resources
+    [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
+    internal static global::System.Resources.ResourceManager ResourceManager
     {
-
-        private static global::System.Resources.ResourceManager resourceMan;
-
-        private static global::System.Globalization.CultureInfo resourceCulture;
-
-        [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
-        internal Resources()
+        get
         {
+            if ((resourceMan == null))
+            {
+                global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Lesson_40_wf___Оператор_объекдинения_с__NULL.Properties.Resources", typeof(Resources).Assembly);
+                resourceMan = temp;
+            }
+            return resourceMan;
         }
+    }
 
-        /// <summary>
-        ///   Возврат кэшированного экземпляра ResourceManager, используемого этим классом.
-        /// </summary>
-        [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Resources.ResourceManager ResourceManager
+    /// <summary>
+    ///   Переопределяет свойство CurrentUICulture текущего потока для всех
+    ///   подстановки ресурсов с помощью этого класса ресурсов со строгим типом.
+    /// </summary>
+    [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
+    internal static global::System.Globalization.CultureInfo Culture
+    {
+        get
         {
-            get
-            {
-                if ((resourceMan == null))
-                {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Lesson_40_wf___Оператор_объекдинения_с__NULL.Properties.Resources", typeof(Resources).Assembly);
-                    resourceMan = temp;
-                }
-                return resourceMan;
-            }
+            return resourceCulture;
         }
-
-        /// <summary>
-        ///   Переопределяет свойство CurrentUICulture текущего потока для всех
-        ///   подстановки ресурсов с помощью этого класса ресурсов со строгим типом.
-        /// </summary>
-        [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Globalization.CultureInfo Culture
+        set
         {
-            get
-            {
-                return resourceCulture;
-            }
-            set
-            {
-                resourceCulture = value;
-            }
+            resourceCulture = value;
         }
     }
 }

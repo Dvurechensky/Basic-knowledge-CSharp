@@ -4,31 +4,27 @@
  * Область видимости, или контекст переменной
  * Конфликты областей видимости
  */
-
-namespace Lesson_37____Область_видимости__контекст_переменной__конфликт_областей
+class Program
 {
-    class Program
+    static int a = 3;
+    static int aa = 3;
+
+    static void Foo()
     {
-        static int a = 3;
-        static int aa = 3;
+        int b = 0;
 
-        static void Foo()
+        int aa = 2;
+        Console.WriteLine(aa);
+    }
+
+    static void Main()
+    {
+        for (int i = 0; i < 2; i++)
         {
-            int b = 0;
-
-            int aa = 2;
-            Console.WriteLine(aa);
+            ++i;
         }
-
-        static void Main(string[] args)
-        {
-            for (int i = 0; i < 2; i++)
-            {
-                ++i;
-            }
-            Foo();
-            //Область видимости и конктекст переменной - это одно и то же
-            a++;
-        } 
+        Foo();
+        a++; // Область видимости и конктекст переменной - это одно и то же
+        Console.ReadKey();
     }
 }

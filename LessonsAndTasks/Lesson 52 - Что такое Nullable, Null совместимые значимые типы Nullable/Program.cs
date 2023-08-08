@@ -8,7 +8,7 @@ namespace Lesson_52___Что_такое_Nullable__Null_совместимые_з
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             string str = null;
 

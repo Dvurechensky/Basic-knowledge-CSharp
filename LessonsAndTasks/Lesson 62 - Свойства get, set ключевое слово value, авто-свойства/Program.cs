@@ -25,7 +25,7 @@ namespace Lesson_62___Свойства_get__set_ключевое_слово_valu
 
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Point point = new Point();
             point.SetX(5);

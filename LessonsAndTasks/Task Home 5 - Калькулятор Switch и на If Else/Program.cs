@@ -8,7 +8,7 @@ namespace Task_Home_5___Калькулятор_Switch_и_на_If_Else
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             while (true)
             {

@@ -4,7 +4,7 @@ namespace Task_Home_4___Проверка_числа_на_чётность
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             int a;
 

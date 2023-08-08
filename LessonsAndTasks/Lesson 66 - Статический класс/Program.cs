@@ -18,7 +18,7 @@ namespace Lesson_66___Статический_класс
 
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Herro.Foo();
         }

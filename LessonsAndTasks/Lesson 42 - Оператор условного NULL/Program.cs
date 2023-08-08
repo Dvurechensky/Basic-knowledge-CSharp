@@ -4,23 +4,20 @@ using System.Linq;
 /*
  * Оператор условного NULL ?.
  */
-
-namespace Lesson_42___Оператор_условного_NULL
+class Program
 {
-    class Program
+    static int[] GetArray()
     {
-        static int[] GetArray()
-        {
-            int[] myArray = null;
-            return myArray;
-        }
+        int[] myArray = null;
+        return myArray;
+    }
 
-        static void Main(string[] args)
-        {
-            int[] myArray = GetArray();
-            // ?. - проверяет равна ли сумма null или не равна 
-            // ?? - оператор объединения с null  
-            Console.WriteLine(myArray?.Sum() ?? -1);
-        }
+    static void Main()
+    {
+        int[] myArray = GetArray();
+        // ?. - проверяет равна ли сумма null или не равна 
+        // ?? - оператор объединения с null  
+        Console.WriteLine(myArray?.Sum() ?? -1);
+        Console.ReadKey();
     }
 }

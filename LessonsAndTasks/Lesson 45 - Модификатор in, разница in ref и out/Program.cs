@@ -51,7 +51,7 @@ namespace Lesson_45___Модификатор_in__разница_in_ref_и_out
             Console.WriteLine(value);
         }
 
-        static void Main(string[] args)
+        static void Main()
         {
             //int a = 4;
             //Foo(a);

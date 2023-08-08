@@ -51,7 +51,7 @@ namespace Lesson_61___Ключевое_слово_this__this_в_конструк
 
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Student student_1 = new Student("Qumo", new DateTime(2000, 10, 5));
             student_1.Print();

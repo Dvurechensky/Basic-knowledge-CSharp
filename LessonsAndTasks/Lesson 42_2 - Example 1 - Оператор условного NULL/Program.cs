@@ -21,6 +21,7 @@ class Program
 
         // person, Contacts и PhoneNumber - ссылочные типы - так как они class
         Console.WriteLine(person?.Contacts?.PhoneNumber ?? "no data");
+        Console.ReadKey();
     }
 }
 

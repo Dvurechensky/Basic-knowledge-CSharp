@@ -2,19 +2,14 @@
 
 /*
  * Оператора объединения с NULL ??
- */ 
-
-namespace Lesson_40___Оператор_объекдинения_с__NULL
+ */
+class Program
 {
-    class Program
+    static void Main()
     {
-        static void Main(string[] args)
-        {
-            string str = null;
-
-            Console.WriteLine(str ?? "NULL");
-
-            Console.WriteLine("Lenght" + str ?? "no");
-        }
+        string str = null;
+        Console.WriteLine(str ?? "NULL");
+        Console.WriteLine("Lenght" + str ?? "no");
+        Console.ReadKey();
     }
 }

@@ -23,7 +23,7 @@ namespace Lesson_48___Именнованные_параметры
             return result;
         }
 
-        static void Main(string[] args)
+        static void Main()
         {
             Sum(a: 1, b: 2);
 

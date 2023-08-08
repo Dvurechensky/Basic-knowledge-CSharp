@@ -31,7 +31,7 @@ namespace Lesson_63___Статические_поля_класса__ключев
 
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             MyClass.b = 4;
 
