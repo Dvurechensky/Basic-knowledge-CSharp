@@ -3,26 +3,21 @@
 /*
  *  ключевое слово break 
  */
-
-namespace Lesson_20___Ключевое_слово_break__оператор_
+class Program
 {
-    class Program
+    static void Main()
     {
-        static void Main(string[] args)
+        for (int i = 0; i < 100; i++)
         {
-            for (int i = 0; i < 100; i++)
-            {
-                Console.WriteLine(i);
+            Console.WriteLine(i);
 
-                string msg = Console.ReadLine();
+            string msg = Console.ReadLine();
 
-                if (msg == "exit")
-                    break;
-                else if (i == 10)
-                    break;
-            }
-
-            Console.ReadLine();
+            if (msg == "exit")
+                break;
+            else if (i == 10)
+                break;
         }
+        Console.ReadKey();
     }
 }

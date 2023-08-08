@@ -2,27 +2,24 @@
 
 /*
  * Цикл do while
+ * Всегда выполняется один раз 
+ * даже если условие цикла не выполянется
  */
-
-namespace Lesson_17___Цикл_do_while
+class Program
 {
-    class Program
+    static void Main()
     {
-        static void Main(string[] args)
+        int count = 5;
+        while (count < 5)
         {
-            int count = 5;
-            //Всегда выполняется один раз даже если условие цикла не выполянется
-            while (count < 5)
-            {
-                count++;
-                Console.WriteLine($"{count} Действие");
-            }
-
-            do
-            {
-                count++;
-                Console.WriteLine($"{count} Действие");
-            } while (count < 5);
+            count++;
+            Console.WriteLine($"{count} Действие");
         }
+        do
+        {
+            count++;
+            Console.WriteLine($"{count} Действие");
+        } while (count < 5);
+        Console.ReadKey();
     }
 }
