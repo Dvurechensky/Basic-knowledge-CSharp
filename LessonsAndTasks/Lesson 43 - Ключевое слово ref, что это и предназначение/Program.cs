@@ -220,5 +220,6 @@ class Program
         //ДЗ №3
         int[] dz_3 = { 44, 33, 11, 4 };
         DeleteElementArray(ref dz_3, 1);
+        Console.ReadKey();
     }
 }
