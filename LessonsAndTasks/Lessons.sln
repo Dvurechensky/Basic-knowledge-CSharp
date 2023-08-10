@@ -117,17 +117,17 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "53_Lesson - var . Это н
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "54_Lesson - enum, что это, и для чего нужно - перечисления", "Lesson 54 - enum, что это, и для чего нужно - перечисления\54_Lesson - enum, что это, и для чего нужно - перечисления.csproj", "{56F7519C-2D4F-4939-B7DB-295EC0BDBF6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 55 - Что такое КЛАСС - ООП, объект, экземпляр класса", "Lesson 55 - Что такое КЛАСС - ООП, объект, экземпляр класса\Lesson 55 - Что такое КЛАСС - ООП, объект, экземпляр класса.csproj", "{730EDE55-501D-4A60-B7E8-F6ADC743159C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "55_Lesson - Что такое КЛАСС - ООП, объект, экземпляр класса", "Lesson 55 - Что такое КЛАСС - ООП, объект, экземпляр класса\55_Lesson - Что такое КЛАСС - ООП, объект, экземпляр класса.csproj", "{730EDE55-501D-4A60-B7E8-F6ADC743159C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 56 - Методы и классы, ООП, вызов метода объекта класса", "Lesson 56 - Методы и классы, ООП, вызов метода объекта класса\Lesson 56 - Методы и классы, ООП, вызов метода объекта класса.csproj", "{E6B73F3E-92DD-4737-8FF8-A78B97CB387C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "56_Lesson - Методы и классы, ООП, вызов метода объекта класса", "Lesson 56 - Методы и классы, ООП, вызов метода объекта класса\56_Lesson - Методы и классы, ООП, вызов метода объекта класса.csproj", "{E6B73F3E-92DD-4737-8FF8-A78B97CB387C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 57 - Модификаторы доступа, public, protected, private", "Lesson 57 - Модификаторы доступа, public, protected, private\Lesson 57 - Модификаторы доступа, public, protected, private.csproj", "{3378E01F-43A7-4F27-8944-2FF46C35C4F0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "57_Lesson - Модификаторы доступа, public, protected, private", "Lesson 57 - Модификаторы доступа, public, protected, private\57_Lesson - Модификаторы доступа, public, protected, private.csproj", "{3378E01F-43A7-4F27-8944-2FF46C35C4F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 58 - ИНКАПСУЛЯЦИЯ, примеры", "Lesson 58 - ИНКАПСУЛЯЦИЯ, примеры\Lesson 58 - ИНКАПСУЛЯЦИЯ, примеры.csproj", "{2107BF8F-95A9-4A7A-9CB0-F676E59A887A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "58_Lesson - ИНКАПСУЛЯЦИЯ, примеры", "Lesson 58 - ИНКАПСУЛЯЦИЯ, примеры\58_Lesson - ИНКАПСУЛЯЦИЯ, примеры.csproj", "{2107BF8F-95A9-4A7A-9CB0-F676E59A887A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 59 - Что такое конструктор класса, для чего, по умолчанию", "Lesson 59 - Что такое конструктор класса, для чего, по умолчанию\Lesson 59 - Что такое конструктор класса, для чего, по умолчанию.csproj", "{90FB198E-A723-4127-B38F-6F3FE2180AED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "59_Lesson - Что такое конструктор класса, для чего, по умолчанию", "Lesson 59 - Что такое конструктор класса, для чего, по умолчанию\59_Lesson - Что такое конструктор класса, для чего, по умолчанию.csproj", "{90FB198E-A723-4127-B38F-6F3FE2180AED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 60 - Перегрузка конструкторов класса, что это", "Lesson 60 - Перегрузка конструкторов класса, что это\Lesson 60 - Перегрузка конструкторов класса, что это.csproj", "{0A6CE006-5DFA-4478-8ADC-3CA0F16CACBA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "60_Lesson - Перегрузка конструкторов класса, что это", "Lesson 60 - Перегрузка конструкторов класса, что это\60_Lesson - Перегрузка конструкторов класса, что это.csproj", "{0A6CE006-5DFA-4478-8ADC-3CA0F16CACBA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 61 - Ключевое слово this, this в конструкторе", "Lesson 61 - Ключевое слово this, this в конструкторе\Lesson 61 - Ключевое слово this, this в конструкторе.csproj", "{A450AABD-15BC-433E-B9B9-9D91BF5F4BFA}"
 EndProject

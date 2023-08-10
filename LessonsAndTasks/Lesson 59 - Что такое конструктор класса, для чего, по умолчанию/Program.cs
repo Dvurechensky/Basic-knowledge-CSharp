@@ -5,76 +5,82 @@
  * 
  * конструктор по умолчанию
  */
-
-namespace Lesson_59___Что_такое_конструктор_класса__для_чего__по_умолчанию
+class Point
 {
-    class Point
+    public Point(int x, int y)
     {
-        public Point(int x, int y)
-        {
-            _x = x;
-            _y = y;
-        }
-
-        private int _x;
-        private int _y;
-
-
-        public void Print()
-        {
-            Console.WriteLine($"X: {_x} \t Y: {_y}");
-        }
+        _x = x;
+        _y = y;
     }
 
-    class Gun
+    private int _x;
+    private int _y;
+
+    public void Print()
     {
-        //ctor - конструктор по умолчанию
-        //конструктор - тоже метод класса но только специальный, всегда public
-        // можно выставить что сделать по умолчанию 
-
-        //конструктор без параметров
-        public Gun()
-        {
-            _isLoaded = true;
-        }
-
-        //конструктор с параметрами
-        public Gun(bool isLoaded)
-        {
-            this._isLoaded = isLoaded;
-        }
-
-        private bool _isLoaded;
-
-        private void Reload() //поведение
-        {
-            Console.WriteLine("Заряжаю...");
-
-            _isLoaded = true;
-
-            Console.WriteLine("Заряжено!");
-        }
-
-        public void Shot()
-        {
-            if (!_isLoaded)
-            {
-                Console.WriteLine("Орудие не заряжено!");
-                Reload();
-            }
-
-            Console.WriteLine("Пыщ - Пыщ!\n");
-            _isLoaded = false;
-        }
+        Console.WriteLine($"X: {_x} \t Y: {_y}");
     }
-    class Program
+}
+
+class Gun
+{
+    /// <summary>
+    /// конструктор без параметров
+    /// 
+    /// ctor - конструктор по умолчанию
+    /// конструктор - тоже метод класса но только специальный, всегда public
+    /// можно выставить что сделать по умолчанию 
+    /// </summary>
+    public Gun()
     {
-        static void Main()
+        _isLoaded = true;
+    }
+
+    /// <summary>
+    /// конструктор с параметрами
+    /// </summary>
+    /// <param name="isLoaded">#</param>
+    public Gun(bool isLoaded)
+    {
+        this._isLoaded = isLoaded;
+    }
+
+    private bool _isLoaded;
+
+    /// <summary>
+    /// Поведение
+    /// </summary>
+    private void Reload()
+    {
+        Console.WriteLine("Заряжаю...");
+
+        _isLoaded = true;
+
+        Console.WriteLine("Заряжено!");
+    }
+
+    public void Shot()
+    {
+        if (!_isLoaded)
         {
-            Gun gun = new Gun(isLoaded: true); //new - конструктор по умолчанию (спец метод для создания объекта класса)
-            gun.Shot();
-            Point point = new Point(1, 3);
-            point.Print();
+            Console.WriteLine("Орудие не заряжено!");
+            Reload();
         }
+
+        Console.WriteLine("Пыщ - Пыщ!\n");
+        _isLoaded = false;
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        //new - конструктор по умолчанию (спец метод для создания объекта класса)
+        var gun = new Gun(isLoaded: true); 
+        gun.Shot();
+        Point point = new Point(1, 3);
+        point.Print();
+        Console.ReadKey();
     }
 }
