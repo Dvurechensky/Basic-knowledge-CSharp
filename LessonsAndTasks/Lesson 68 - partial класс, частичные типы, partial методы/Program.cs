@@ -1,22 +1,20 @@
-﻿using System;
-
-/*
+﻿/*
  * Частичные типы
  * 
  * partial классы (паршиал)
  * 
  * partial методы
  */
-
-namespace Lesson_68___partial_класс__частичные_типы__partial_методы
+using System;
+/// <summary>
+/// Позволяет код класса произнести в разных файлах (класс превращается в частичный)
+/// </summary>
+class Program
 {
-    //позволяет код класса произнести в разных файлах (класс превращается в частичный)
-    class Program
+    static void Main()
     {
-        static void Main()
-        {
-            Person person = new Person("Джим", "Керри");
-            person.PrintFullName();
-        }
+        Person person = new Person("Джим", "Керри");
+        person.PrintFullName();
+        Console.ReadKey();
     }
 }

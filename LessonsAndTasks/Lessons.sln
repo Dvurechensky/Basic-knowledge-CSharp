@@ -129,21 +129,21 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "59_Lesson - Что тако
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "60_Lesson - Перегрузка конструкторов класса, что это", "Lesson 60 - Перегрузка конструкторов класса, что это\60_Lesson - Перегрузка конструкторов класса, что это.csproj", "{0A6CE006-5DFA-4478-8ADC-3CA0F16CACBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 61 - Ключевое слово this, this в конструкторе", "Lesson 61 - Ключевое слово this, this в конструкторе\Lesson 61 - Ключевое слово this, this в конструкторе.csproj", "{A450AABD-15BC-433E-B9B9-9D91BF5F4BFA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "61_Lesson - Ключевое слово this, this в конструкторе", "Lesson 61 - Ключевое слово this, this в конструкторе\61_Lesson - Ключевое слово this, this в конструкторе.csproj", "{A450AABD-15BC-433E-B9B9-9D91BF5F4BFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 62 - Свойства get, set ключевое слово value, авто-свойства", "Lesson 62 - Свойства get, set ключевое слово value, авто-свойства\Lesson 62 - Свойства get, set ключевое слово value, авто-свойства.csproj", "{D32F4616-1733-4491-81C6-D77F975DF171}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "62_Lesson - Свойства get, set ключевое слово value, авто-свойства", "Lesson 62 - Свойства get, set ключевое слово value, авто-свойства\62_Lesson - Свойства get, set ключевое слово value, авто-свойства.csproj", "{D32F4616-1733-4491-81C6-D77F975DF171}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 63 - Статические поля класса, ключевое слово static", "Lesson 63 - Статические поля класса, ключевое слово static\Lesson 63 - Статические поля класса, ключевое слово static.csproj", "{CAD89597-A781-491C-9B95-0C2D6DA3C70B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "63_Lesson - Статические поля класса, ключевое слово static", "Lesson 63 - Статические поля класса, ключевое слово static\63_Lesson - Статические поля класса, ключевое слово static.csproj", "{CAD89597-A781-491C-9B95-0C2D6DA3C70B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 64 - Статические методы, свойства, работа static", "Lesson 64 - Статические методы, свойства, работа static\Lesson 64 - Статические методы, свойства, работа static.csproj", "{C203E2FB-EEB4-4496-9BC2-2951920CDD56}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "64_Lesson - Статические методы, свойства, работа static", "Lesson 64 - Статические методы, свойства, работа static\64_Lesson - Статические методы, свойства, работа static.csproj", "{C203E2FB-EEB4-4496-9BC2-2951920CDD56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 65 - Статический конструктор, как работает ключ. слово static", "Lesson 65 - Статический конструктор, как работает ключ. слово static\Lesson 65 - Статический конструктор, как работает ключ. слово static.csproj", "{FDD50EA7-65F8-459D-9266-51E229757B78}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "65_Lesson - Статический конструктор, как работает ключ. слово static", "Lesson 65 - Статический конструктор, как работает ключ. слово static\65_Lesson - Статический конструктор, как работает ключ. слово static.csproj", "{FDD50EA7-65F8-459D-9266-51E229757B78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 66 - Статический класс", "Lesson 66 - Статический класс\Lesson 66 - Статический класс.csproj", "{78912F30-35BD-411C-8CA9-49A2A3726745}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "66_Lesson - Статический класс", "Lesson 66 - Статический класс\66_Lesson - Статический класс.csproj", "{78912F30-35BD-411C-8CA9-49A2A3726745}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 67 - Методы расширения, extension", "Lesson 67 - Методы расширения, extension\Lesson 67 - Методы расширения, extension.csproj", "{885DA3AA-3B3C-43EC-823D-A0B73D359B6A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "67_Lesson - Методы расширения, extension", "Lesson 67 - Методы расширения, extension\67_Lesson - Методы расширения, extension.csproj", "{885DA3AA-3B3C-43EC-823D-A0B73D359B6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 68 - partial класс, частичные типы, partial методы", "Lesson 68 - partial класс, частичные типы, partial методы\Lesson 68 - partial класс, частичные типы, partial методы.csproj", "{A3011C15-258D-4A62-B01B-91EFEEA9C936}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "68_Lesson - partial класс, частичные типы, partial методы", "Lesson 68 - partial класс, частичные типы, partial методы\68_Lesson - partial класс, частичные типы, partial методы.csproj", "{A3011C15-258D-4A62-B01B-91EFEEA9C936}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_Lesson - Цикл while", "Lesson 16 - Цикл while\16_Lesson - Цикл while.csproj", "{8FCFD429-4E9C-4B5D-B3C5-CF398BD0F3F2}"
 EndProject

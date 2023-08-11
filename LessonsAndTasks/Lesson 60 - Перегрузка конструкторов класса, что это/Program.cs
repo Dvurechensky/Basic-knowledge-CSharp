@@ -32,11 +32,8 @@ class Student
     private string _lastName;
     private DateTime _birthday;
 
-    public void SetLastName(string lastName)
-    {
-        _lastName = lastName;
-    }
-
+    public void SetLastName(string lastName) => _lastName = lastName;
+    
     public void Print()
     {
         Console.WriteLine($"Имя: " + _firstName +
@@ -51,10 +48,7 @@ class Point
     /// <summary>
     /// наличие более одного конструктора и есть перегрузка 
     /// </summary>
-    public Point()
-    {
-        _x = _y = 1;
-    }
+    public Point() => _x = _y = 1;
 
     public Point(int x, int y)
     {

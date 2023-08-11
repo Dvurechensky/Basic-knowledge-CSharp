@@ -1,15 +1,12 @@
-﻿namespace Lesson_68___partial_класс__частичные_типы__partial_методы
+﻿partial class Person
 {
-    partial class Person
+    public string GetFullName()
     {
-        public string GetFullName()
-        {
-            return FirstName + " " + LastName;
-        }
+        return FirstName + " " + LastName;
+    }
 
-        public void PrintFullName()//partial
-        {
-            System.Console.WriteLine(GetFullName());
-        }
+    public void PrintFullName() // partial
+    {
+        System.Console.WriteLine(GetFullName());
     }
 }

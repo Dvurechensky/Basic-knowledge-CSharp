@@ -1,8 +1,8 @@
-﻿using System;
-
-namespace Students
+﻿namespace Students
 {
-    //Не можем унаследоваться от этого класса - sealed
+    /// <summary>
+    /// Не можем унаследоваться от этого класса - sealed
+    /// </summary>
     sealed class Student
     {
         public string FirstName { get; set; }

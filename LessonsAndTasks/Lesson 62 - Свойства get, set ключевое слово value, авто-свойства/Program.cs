@@ -3,33 +3,22 @@
 /*
  * Сыойства (Properties)
  * 
- * Автоматические свойства
+ * Автоматические свойства (prop)
  */
-
-namespace Lesson_62___Свойства_get__set_ключевое_слово_value__авто_свойства
+class Point
 {
-    class Point
+    private int x;
+    public void SetX(int x) => this.x = x;
+    public int GetX() => x;
+}
+
+class Program
+{
+    static void Main()
     {
-        private int x;
-        public void SetX(int x)
-        {
-            this.x = x;
-        }
-
-        public int GetX()
-        {
-            return x;
-        }
-    }
-
-
-    class Program
-    {
-        static void Main()
-        {
-            Point point = new Point();
-            point.SetX(5);
-            Console.WriteLine(point.GetX());
-        }
+        Point point = new Point();
+        point.SetX(5);
+        Console.WriteLine(point.GetX());
+        Console.ReadKey();
     }
 }

@@ -3,102 +3,95 @@
 /*
  * пишем калькулятор C#
  */
-
-namespace Task_Home_5___Калькулятор_Switch_и_на_If_Else
+class Program
 {
-    class Program
+    static void Main()
     {
-        static void Main()
+        while (true)
         {
-            while (true)
+            Console.Clear();
+            double a, b, result;
+            string action;
+            try
             {
-                Console.Clear();
-                double a, b, result;
-                string action;
+                //if else
+                Console.WriteLine(value: "Введите первое число");
+                a = double.Parse(Console.ReadLine());
+                Console.WriteLine(value: "Введите первое число");
+                b = double.Parse(Console.ReadLine());
+                Console.WriteLine(value: "Действие + - % * /");
+                action = Console.ReadLine();
+                result = 0;
 
-                try
+                if (action == "+")
                 {
-                    //if else
-                    Console.WriteLine(value: "Введите первое число");
-                    a = double.Parse(Console.ReadLine());
-                    Console.WriteLine(value: "Введите первое число");
-                    b = double.Parse(Console.ReadLine());
-                    Console.WriteLine(value: "Действие + - % * /");
-                    action = Console.ReadLine();
-                    result = 0;
+                    result = a + b;
+                }
+                else if (action == "-")
+                {
+                    result = a - b;
+                }
+                else if (action == "%")
+                {
+                    result = a % b;
+                }
+                else if (action == "*")
+                {
+                    result = a * b;
+                }
+                else if (action == "/")
+                {
+                    if (b == 0)
+                        result = 0;
+                    else
+                        result = a / b;
+                }
+                else
+                {
+                    Console.WriteLine(Environment.NewLine + "Я не знаю!");
+                }
+                Console.WriteLine("Результат if else: " + result);
 
-                    if (action == "+")
-                    {
+                //switch
+                Console.WriteLine(Environment.NewLine + "Введите действие + - * % /" + Environment.NewLine);
+
+                ConsoleKey consoleKey = Console.ReadKey().Key;
+                switch (consoleKey)
+                {
+                    case ConsoleKey.Add:
+                    case ConsoleKey.OemPlus:
                         result = a + b;
-                    }
-                    else if (action == "-")
-                    {
+                        break;
+                    case ConsoleKey.Subtract:
+                    case ConsoleKey.OemMinus:
                         result = a - b;
-                    }
-                    else if (action == "%")
-                    {
-                        result = a % b;
-                    }
-                    else if (action == "*")
-                    {
+                        break;
+                    case ConsoleKey.Multiply:
                         result = a * b;
-                    }
-                    else if (action == "/")
-                    {
+                        break;
+                    case ConsoleKey.Divide:
                         if (b == 0)
                             result = 0;
                         else
                             result = a / b;
-                    } 
-                    else
-                    {
+                        break;
+                    case ConsoleKey.D5:
+                        result = a % b;
+                        break;
+                    default:
                         Console.WriteLine(Environment.NewLine + "Я не знаю!");
-                    }
-
-                    Console.WriteLine("Результат if else: " + result);
-
-                    //switch
-                    Console.WriteLine(Environment.NewLine + "Введите действие + - * % /" + Environment.NewLine);
-
-                    ConsoleKey consoleKey = Console.ReadKey().Key;
-                    switch (consoleKey)
-                    {
-                        case ConsoleKey.Add:
-                        case ConsoleKey.OemPlus:
-                            result = a + b;
-                            break;
-                        case ConsoleKey.Subtract:
-                        case ConsoleKey.OemMinus:
-                            result = a - b;
-                            break;
-                        case ConsoleKey.Multiply:
-                            result = a * b;
-                            break;
-                        case ConsoleKey.Divide:
-                            if (b == 0)
-                                result = 0;
-                            else
-                                result = a / b;
-                            break;
-                        case ConsoleKey.D5:
-                            result = a % b;
-                            break;
-                        default:
-                            Console.WriteLine(Environment.NewLine + "Я не знаю!");
-                            break;
-                    }
-
-                    Console.WriteLine(Environment.NewLine + "Результат switch: " + result);
+                        break;
                 }
-                catch (Exception)
-                {
-                    Console.WriteLine("Ошибка!");
-                    continue;
-                }
-               
-                Console.ReadLine();
+
+                Console.WriteLine(Environment.NewLine + "Результат switch: " + result);
             }
-            
+            catch (Exception)
+            {
+                Console.WriteLine("Ошибка!");
+                continue;
+            }
+
+            Console.ReadLine();
         }
     }
 }

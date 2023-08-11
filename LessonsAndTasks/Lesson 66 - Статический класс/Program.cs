@@ -5,22 +5,16 @@
  * 
  * Статический класс
  */
-
-namespace Lesson_66___Статический_класс
+static class Herro
 {
-    static class Herro
-    {
-        public static void Foo()
-        {
-            Console.WriteLine("Вызвал Foo()");
-        }
-    }
+    public static void Foo() => Console.WriteLine("Вызвал Foo()");
+}
 
-    class Program
+class Program
+{
+    static void Main()
     {
-        static void Main()
-        {
-            Herro.Foo();
-        }
+        Herro.Foo();
+        Console.ReadKey();
     }
 }
