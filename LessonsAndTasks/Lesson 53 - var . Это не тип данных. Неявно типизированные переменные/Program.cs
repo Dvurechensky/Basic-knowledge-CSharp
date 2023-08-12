@@ -64,7 +64,6 @@ class Program
          * Не может быть полями класса
          * class MyClass { public var a}
          */
-
         Console.WriteLine();
         Console.WriteLine(u.GetType());
         Console.ReadKey();

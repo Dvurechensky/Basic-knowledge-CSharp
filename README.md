@@ -10,4 +10,7 @@
 
 # Разбор языка программирования C# 🍧
 
+## Зависимости
+- runtime-5.0.17 - **.NET 5.0 Desktop** - где [**скачать?**](https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime?cid=getdotnetcore&os=windows&arch=x64)
+
 Данная информация по C# проработанна мной с плейлиста грамотного канала 👊 [#SimpleCode](https://www.youtube.com/playlist?list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N) 👊
