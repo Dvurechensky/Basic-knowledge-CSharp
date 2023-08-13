@@ -87,7 +87,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "38_Lesson  - Ссылочн
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "39_Lesson - Что такое NULL", "Lesson 39 - Что такое NULL\39_Lesson - Что такое NULL.csproj", "{5BE6607E-0B8C-441E-B80E-14236D377D08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40_Lesson - Оператор объекдинения с  NULL", "Lesson 40 - Оператор объекдинения с  NULL\40_Lesson - Оператор объекдинения с  NULL.csproj", "{D4526E9D-E808-4922-8841-96A03BB14650}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40_Lesson - Оператор объединения с  NULL", "Lesson 40 - Оператор объекдинения с  NULL\40_Lesson - Оператор объединения с  NULL.csproj", "{D4526E9D-E808-4922-8841-96A03BB14650}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "42_Lesson - Оператор условного NULL", "Lesson 42 - Оператор условного NULL\42_Lesson - Оператор условного NULL.csproj", "{9737100B-A415-4E7D-ABD1-0D2B89981F16}"
 EndProject
@@ -119,7 +119,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "54_Lesson - enum, что э
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "55_Lesson - Что такое КЛАСС - ООП, объект, экземпляр класса", "Lesson 55 - Что такое КЛАСС - ООП, объект, экземпляр класса\55_Lesson - Что такое КЛАСС - ООП, объект, экземпляр класса.csproj", "{730EDE55-501D-4A60-B7E8-F6ADC743159C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "56_Lesson - Методы и классы, ООП, вызов метода объекта класса", "Lesson 56 - Методы и классы, ООП, вызов метода объекта класса\56_Lesson - Методы и классы, ООП, вызов метода объекта класса.csproj", "{E6B73F3E-92DD-4737-8FF8-A78B97CB387C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "56_Lesson - Методы и классы, ООП, вызов метода экземпляра класса", "Lesson 56 - Методы и классы, ООП, вызов метода объекта класса\56_Lesson - Методы и классы, ООП, вызов метода экземпляра класса.csproj", "{E6B73F3E-92DD-4737-8FF8-A78B97CB387C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "57_Lesson - Модификаторы доступа, public, protected, private", "Lesson 57 - Модификаторы доступа, public, protected, private\57_Lesson - Модификаторы доступа, public, protected, private.csproj", "{3378E01F-43A7-4F27-8944-2FF46C35C4F0}"
 EndProject
